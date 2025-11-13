@@ -1791,7 +1791,7 @@ else:
 # Static inverted footer (no controls)
 st.markdown("""
 <div style='text-align: center; margin-top: 30px; padding: 20px; background-color: #111111; color: #FFFFFF; border-radius: 10px;'>
-    <p style='margin:0; font-weight:600;'>AyurGenixAI Dashboard - Combining Ancient Wisdom with Modern Technology</p>
-    <p style='font-size: 0.8rem; margin:4px 0 0 0;'>© 2025 AyurGenixAI</p>
+    <p style='margin:0; font-weight:600;'>E-Ayurveda Dashboard - Combining Ancient Wisdom with Modern Technology</p>
+    <p style='font-size: 0.8rem; margin:4px 0 0 0;'>© 2025 E-Ayurveda</p>
 </div>
 """, unsafe_allow_html=True)
