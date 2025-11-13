@@ -1,0 +1,9 @@
+pandas>=1.5
+streamlit>=1.20
+rapidfuzz>=2.0
+python-dotenv
+pytest
+black
+requests
+openai
+sentence-transformers
