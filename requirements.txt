@@ -7,3 +7,4 @@ black
 requests
 openai
 sentence-transformers
+plotly>=5.15.0
