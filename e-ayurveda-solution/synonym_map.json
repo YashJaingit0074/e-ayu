@@ -1,0 +1,1172 @@
+{
+  "cough": [
+    "sore throat"
+  ],
+  "diabetes": [
+    "frequent urination",
+    "fatigue"
+  ],
+  "hypertension": [
+    "high blood pressure",
+    "headaches",
+    "dizziness"
+  ],
+  "migraine": [
+    "severe headache",
+    "nausea"
+  ],
+  "arthritis": [
+    "joint pain",
+    "swelling"
+  ],
+  "common cold": [
+    "runny nose"
+  ],
+  "indigestion": [
+    "bloating"
+  ],
+  "asthma": [
+    "wheezing",
+    "shortness of breath"
+  ],
+  "constipation": [
+    "hard stools"
+  ],
+  "insomnia": [
+    "difficulty sleeping"
+  ],
+  "obesity": [
+    "weight gain"
+  ],
+  "skin allergy": [
+    "itchy rash"
+  ],
+  "anxiety": [
+    "restlessness"
+  ],
+  "fever": [
+    "high temperature"
+  ],
+  "acidity": [
+    "heartburn"
+  ],
+  "acne": [
+    "pimples"
+  ],
+  "acromegaly": [
+    "enlarged hands"
+  ],
+  "acute kidney injury": [
+    "reduced urine output"
+  ],
+  "addison's disease": [
+    "fatigue",
+    "low blood pressure",
+    "weight loss"
+  ],
+  "adrenal insufficiency": [
+    "fatigue"
+  ],
+  "alkaptonuria": [
+    "dark urine"
+  ],
+  "allergies": [
+    "sneezing"
+  ],
+  "alopecia": [
+    "hair loss"
+  ],
+  "alzheimer's disease": [
+    "memory loss",
+    "confusion"
+  ],
+  "amebiasis": [
+    "abdominal pain"
+  ],
+  "amyotrophic lateral sclerosis (als)": [
+    "muscle weakness"
+  ],
+  "argininemia": [
+    "muscle weakness"
+  ],
+  "argininosuccinic aciduria": [
+    "poor growth"
+  ],
+  "arrhythmia": [
+    "irregular heartbeat"
+  ],
+  "ascariasis": [
+    "abdominal pain"
+  ],
+  "asparagine synthetase deficiency": [
+    "developmental delays"
+  ],
+  "aspartylglucosaminuria": [
+    "growth delay"
+  ],
+  "atherosclerosis": [
+    "chest pain",
+    "fatigue"
+  ],
+  "autosomal dominant polycystic kidney disease": [
+    "high blood pressure"
+  ],
+  "back pain": [
+    "muscle stiffness"
+  ],
+  "barth syndrome": [
+    "fatigue"
+  ],
+  "brugada syndrome": [
+    "fainting"
+  ],
+  "bubonic plague": [
+    "fever"
+  ],
+  "buruli ulcer": [
+    "skin ulcers"
+  ],
+  "covid-19": [
+    "fever"
+  ],
+  "canavan disease": [
+    "muscle weakness"
+  ],
+  "carbamoyl phosphate synthetase i deficiency disease": [
+    "poor feeding"
+  ],
+  "cardiomyopathy": [
+    "shortness of breath",
+    "fatigue"
+  ],
+  "carpal tunnel syndrome": [
+    "numbness"
+  ],
+  "celiac disease": [
+    "bloating",
+    "diarrhea",
+    "weight loss"
+  ],
+  "cerebrotendinous xanthomatosis": [
+    "neurological issues"
+  ],
+  "chagas disease": [
+    "fever"
+  ],
+  "chickenpox": [
+    "itchy rashes"
+  ],
+  "chikungunya": [
+    "joint pain"
+  ],
+  "chromoblastomycosis": [
+    "skin lesions"
+  ],
+  "chronic kidney disease (ckd)": [
+    "swelling"
+  ],
+  "chronic obstructive pulmonary disease (copd)": [
+    "breathlessness"
+  ],
+  "ciguatera poisoning": [
+    "nausea"
+  ],
+  "clonorchiasis": [
+    "abdominal pain"
+  ],
+  "coffin-lowry syndrome": [
+    "developmental delays"
+  ],
+  "cold": [
+    "sneezing"
+  ],
+  "colorectal cancer": [
+    "abdominal pain"
+  ],
+  "contact dermatitis": [
+    "redness"
+  ],
+  "coronary artery disease": [
+    "chest pain",
+    "shortness of breath",
+    "fatigue"
+  ],
+  "costello syndrome": [
+    "growth delay"
+  ],
+  "crigler-najjar syndrome": [
+    "jaundice"
+  ],
+  "crimean-congo hemorrhagic fever": [
+    "fever"
+  ],
+  "crohn's disease": [
+    "abdominal pain",
+    "diarrhea"
+  ],
+  "cryptosporidiosis": [
+    "watery diarrhea"
+  ],
+  "cushing's syndrome": [
+    "weight gain"
+  ],
+  "cystic fibrosis": [
+    "persistent cough",
+    "lung infections",
+    "difficulty breathing"
+  ],
+  "cysticercosis": [
+    "seizures"
+  ],
+  "cystinosis": [
+    "weakness"
+  ],
+  "dandruff": [
+    "scalp itchiness"
+  ],
+  "dementia": [
+    "memory loss",
+    "confusion",
+    "difficulty concentrating"
+  ],
+  "dengue fever": [
+    "high fever",
+    "joint pain"
+  ],
+  "dengue hemorrhagic fever": [
+    "high fever"
+  ],
+  "dentinogenesis imperfecta": [
+    "discolored teeth"
+  ],
+  "depression": [
+    "fatigue"
+  ],
+  "desbuquois dysplasia": [
+    "short stature"
+  ],
+  "diabetes mellitus type 1 and type 2": [
+    "increased thirst"
+  ],
+  "digestive disorders": [
+    "bloating"
+  ],
+  "dihydropyrimidine dehydrogenase deficiency": [
+    "diarrhea"
+  ],
+  "diphtheria": [
+    "sore throat"
+  ],
+  "down syndrome": [
+    "developmental delays"
+  ],
+  "dracunculiasis": [
+    "painful ulcers"
+  ],
+  "duchenne muscular dystrophy": [
+    "muscle weakness"
+  ],
+  "dyggve-melchior-clausen syndrome": [
+    "developmental delays"
+  ],
+  "ebola": [
+    "high fever"
+  ],
+  "ebola virus": [
+    "fever"
+  ],
+  "echinococcosis": [
+    "abdominal pain"
+  ],
+  "eczema (atopic dermatitis)": [
+    "itchy skin"
+  ],
+  "emphysema": [
+    "shortness of breath"
+  ],
+  "endometriosis": [
+    "pelvic pain"
+  ],
+  "enterobiasis": [
+    "itchy anus"
+  ],
+  "epilepsy": [
+    "seizures",
+    "confusion",
+    "loss of consciousness"
+  ],
+  "fascioliasis": [
+    "abdominal pain"
+  ],
+  "fibromyalgia": [
+    "chronic pain",
+    "fatigue",
+    "sleep disturbances"
+  ],
+  "filariasis": [
+    "swelling"
+  ],
+  "fragile x syndrome": [
+    "developmental delays"
+  ],
+  "gallstones": [
+    "abdominal pain",
+    "nausea"
+  ],
+  "gastroesophageal reflux disease (gerd)": [
+    "heartburn"
+  ],
+  "giardiasis": [
+    "diarrhea"
+  ],
+  "glomerulonephritis": [
+    "swelling",
+    "high blood pressure"
+  ],
+  "gout": [
+    "joint pain",
+    "swelling",
+    "redness"
+  ],
+  "graves disease": [
+    "hyperthyroidism"
+  ],
+  "guillain-barre syndrome": [
+    "weakness"
+  ],
+  "guinea worm disease": [
+    "painful blisters"
+  ],
+  "hiv/aids": [
+    "weight loss"
+  ],
+  "hair loss": [
+    "thinning of hair"
+  ],
+  "hand, foot, and mouth disease": [
+    "rash on hands"
+  ],
+  "hantavirus pulmonary syndrome": [
+    "fever"
+  ],
+  "hashimoto's thyroiditis": [
+    "fatigue"
+  ],
+  "heart attack (myocardial infarction)": [
+    "chest pain",
+    "shortness of breath",
+    "dizziness"
+  ],
+  "heart disease": [
+    "chest pain"
+  ],
+  "heart failure": [
+    "shortness of breath"
+  ],
+  "hemochromatosis": [
+    "fatigue"
+  ],
+  "hemophilia": [
+    "unexplained bleeding"
+  ],
+  "hendra virus infection": [
+    "fever"
+  ],
+  "hepatitis": [
+    "fatigue",
+    "loss of appetite",
+    "jaundice"
+  ],
+  "hepatitis a": [
+    "jaundice"
+  ],
+  "hepatitis b": [
+    "jaundice"
+  ],
+  "hepatitis c": [
+    "fatigue"
+  ],
+  "histoplasmosis": [
+    "cough"
+  ],
+  "hookworm infection": [
+    "abdominal pain"
+  ],
+  "huntington's disease": [
+    "movement problems"
+  ],
+  "hydronephrosis": [
+    "swelling"
+  ],
+  "hypercholesterolemia": [
+    "high cholesterol"
+  ],
+  "hyperparathyroidism": [
+    "weak bones"
+  ],
+  "hyperthyroidism": [
+    "weight loss"
+  ],
+  "hypoglycemia": [
+    "shakiness"
+  ],
+  "hypothyroidism": [
+    "fatigue",
+    "weight gain",
+    "cold intolerance"
+  ],
+  "inflammation": [
+    "redness"
+  ],
+  "inflammatory bowel disease (ibd)": [
+    "abdominal pain"
+  ],
+  "influenza": [
+    "fever"
+  ],
+  "irritable bowel syndrome (ibs)": [
+    "bloating",
+    "diarrhea or constipation"
+  ],
+  "joint pain": [
+    "swelling"
+  ],
+  "kala-azar": [
+    "fever"
+  ],
+  "kawasaki disease": [
+    "fever"
+  ],
+  "kearns-sayre syndrome": [
+    "muscle weakness"
+  ],
+  "kidney cancer": [
+    "blood in urine",
+    "fatigue"
+  ],
+  "kidney stones": [
+    "blood in urine"
+  ],
+  "kleine-levin syndrome": [
+    "recurrent episodes of excessive sleep"
+  ],
+  "klinefelter syndrome": [
+    "infertility"
+  ],
+  "krabbe disease": [
+    "muscle weakness"
+  ],
+  "kyasanur forest disease": [
+    "fever"
+  ],
+  "langerhans cell histiocytosis": [
+    "skin rashes"
+  ],
+  "larsen syndrome": [
+    "joint dislocations"
+  ],
+  "lassa fever": [
+    "fever"
+  ],
+  "leigh syndrome": [
+    "progressive loss of mental"
+  ],
+  "leishmaniasis": [
+    "skin ulcers"
+  ],
+  "leprosy": [
+    "skin lesions",
+    "nerve damage",
+    "muscle weakness"
+  ],
+  "leptospirosis": [
+    "fever"
+  ],
+  "lesch-nyhan syndrome": [
+    "self-injurious behavior"
+  ],
+  "leukemia": [
+    "fatigue",
+    "frequent infections"
+  ],
+  "leukodystrophy": [
+    "muscle weakness"
+  ],
+  "liddle syndrome": [
+    "high blood pressure"
+  ],
+  "lipid storage disease": [
+    "enlarged liver"
+  ],
+  "liver cancer": [
+    "abdominal pain"
+  ],
+  "liver cirrhosis": [
+    "fatigue"
+  ],
+  "liver disorders": [
+    "fatigue"
+  ],
+  "loeys-dietz syndrome": [
+    "arterial aneurysms"
+  ],
+  "loiasis": [
+    "swelling"
+  ],
+  "lowe syndrome": [
+    "cataracts"
+  ],
+  "lung cancer": [
+    "chronic cough"
+  ],
+  "lupus": [
+    "joint pain",
+    "fatigue",
+    "skin rashes"
+  ],
+  "lyme disease": [
+    "fever"
+  ],
+  "lymphatic filariasis": [
+    "swelling in legs"
+  ],
+  "lymphoma": [
+    "swollen lymph nodes",
+    "fever",
+    "night sweats"
+  ],
+  "maffucci syndrome": [
+    "multiple benign growths"
+  ],
+  "malaria": [
+    "fever",
+    "chills",
+    "headache"
+  ],
+  "mansonelliasis": [
+    "abdominal pain"
+  ],
+  "maple syrup urine disease": [
+    "sweet-smelling urine"
+  ],
+  "marburg": [
+    "fever"
+  ],
+  "marburg virus disease": [
+    "fever"
+  ],
+  "marfan syndrome": [
+    "long limbs"
+  ],
+  "mccune-albright syndrome": [
+    "bone fractures"
+  ],
+  "measles": [
+    "fever",
+    "cough",
+    "red eyes"
+  ],
+  "melanoma": [
+    "dark skin growth"
+  ],
+  "melioidosis": [
+    "fever"
+  ],
+  "meningitis": [
+    "sudden fever"
+  ],
+  "menkes disease": [
+    "poor growth"
+  ],
+  "menopause": [
+    "hot flashes"
+  ],
+  "menstrual disorders": [
+    "irregular periods"
+  ],
+  "mental health disorders": [
+    "anxiety"
+  ],
+  "mental stress": [
+    "fatigue"
+  ],
+  "metabolic syndrome": [
+    "abdominal obesity"
+  ],
+  "miller-dieker syndrome": [
+    "developmental delay"
+  ],
+  "mitochondrial myopathy": [
+    "muscle weakness"
+  ],
+  "monkeypox": [
+    "fever"
+  ],
+  "mowat-wilson syndrome": [
+    "developmental delay"
+  ],
+  "mucolipidosis": [
+    "enlarged organs"
+  ],
+  "mucopolysaccharidosis": [
+    "joint stiffness"
+  ],
+  "multiple sclerosis": [
+    "muscle weakness"
+  ],
+  "multiple sulfatase deficiency": [
+    "developmental delay"
+  ],
+  "muscular dystrophy": [
+    "muscle weakness"
+  ],
+  "myasthenia gravis": [
+    "muscle weakness"
+  ],
+  "mycetoma": [
+    "swelling"
+  ],
+  "myotonia congenita": [
+    "muscle stiffness"
+  ],
+  "naegleria infection": [
+    "severe headache"
+  ],
+  "nephrotic syndrome": [
+    "swelling"
+  ],
+  "neurofibromatosis": [
+    "lumps on the skin"
+  ],
+  "neurotoxocariasis": [
+    "fever"
+  ],
+  "niemann-pick disease": [
+    "enlarged liver"
+  ],
+  "nipah virus infection": [
+    "fever"
+  ],
+  "noonan syndrome": [
+    "short stature"
+  ],
+  "onchocerciasis (river blindness)": [
+    "itchy skin"
+  ],
+  "opistorchiasis": [
+    "abdominal pain"
+  ],
+  "osteoarthritis": [
+    "joint pain"
+  ],
+  "osteogenesis imperfecta": [
+    "fragile bones"
+  ],
+  "osteopetrosis": [
+    "bone pain"
+  ],
+  "osteoporosis": [
+    "fractures",
+    "height loss"
+  ],
+  "ovarian cancer": [
+    "abdominal bloating"
+  ],
+  "pancreatic cancer": [
+    "abdominal pain"
+  ],
+  "pancreatitis": [
+    "upper abdominal pain",
+    "nausea",
+    "vomiting"
+  ],
+  "paracoccidioidomycosis": [
+    "fever"
+  ],
+  "paragonimiasis": [
+    "cough"
+  ],
+  "parkinson's disease": [
+    "tremors",
+    "slow movement",
+    "balance problems"
+  ],
+  "pelvic floor disorders": [
+    "urinary incontinence"
+  ],
+  "peptic ulcers": [
+    "nausea",
+    "bloating"
+  ],
+  "peripheral artery disease": [
+    "leg pain"
+  ],
+  "peutz-jeghers syndrome": [
+    "mucocutaneous pigmentation"
+  ],
+  "pfeiffer syndrome": [
+    "craniofacial abnormalities"
+  ],
+  "phenylketonuria (pku)": [
+    "intellectual disability"
+  ],
+  "pinta": [
+    "skin lesions"
+  ],
+  "pitt-hopkins syndrome": [
+    "developmental delay"
+  ],
+  "pituitary tumors": [
+    "headaches"
+  ],
+  "pneumoconiosis": [
+    "shortness of breath"
+  ],
+  "pneumocystis pneumonia": [
+    "difficulty breathing",
+    "fever",
+    "cough"
+  ],
+  "pneumonia": [
+    "cough",
+    "fever",
+    "chest pain"
+  ],
+  "pneumonic plague": [
+    "fever"
+  ],
+  "polio": [
+    "muscle weakness"
+  ],
+  "polycystic kidney disease": [
+    "abdominal pain"
+  ],
+  "polycystic ovary syndrome (pcos)": [
+    "irregular periods"
+  ],
+  "porphyria": [
+    "abdominal pain"
+  ],
+  "prader-willi syndrome": [
+    "insatiable hunger"
+  ],
+  "primary amebic meningoencephalitis": [
+    "headache"
+  ],
+  "primary ciliary dyskinesia": [
+    "chronic respiratory infections"
+  ],
+  "prostate cancer": [
+    "pelvic pain"
+  ],
+  "psoriasis": [
+    "scales",
+    "itching"
+  ],
+  "pulmonary hypertension": [
+    "shortness of breath"
+  ],
+  "q fever": [
+    "high fever"
+  ],
+  "rabies": [
+    "fever"
+  ],
+  "relapsing fever": [
+    "recurrent fevers"
+  ],
+  "renal hypertension": [
+    "high blood pressure"
+  ],
+  "respiratory issues": [
+    "shortness of breath"
+  ],
+  "rett syndrome": [
+    "loss of motor skills"
+  ],
+  "rheumatic heart disease": [
+    "chest pain"
+  ],
+  "rheumatoid arthritis": [
+    "joint pain",
+    "stiffness",
+    "swelling"
+  ],
+  "rickettsial diseases": [
+    "fever"
+  ],
+  "rift valley fever": [
+    "fever"
+  ],
+  "rocky mountain spotted fever": [
+    "fever"
+  ],
+  "rosacea": [
+    "redness"
+  ],
+  "schistosomiasis": [
+    "abdominal pain"
+  ],
+  "scoliosis": [
+    "uneven shoulders"
+  ],
+  "seborrheic dermatitis": [
+    "red"
+  ],
+  "septicemic plague": [
+    "fever"
+  ],
+  "sexual dysfunction": [
+    "low libido"
+  ],
+  "sickle cell anemia": [
+    "fatigue",
+    "pain",
+    "frequent infections"
+  ],
+  "sjogren's syndrome": [
+    "dry mouth"
+  ],
+  "skin cancer (melanoma)": [
+    "skin changes"
+  ],
+  "skin diseases": [
+    "redness"
+  ],
+  "skin infections (bacterial, fungal, viral)": [
+    "redness"
+  ],
+  "skin rash": [
+    "red"
+  ],
+  "sleep apnea": [
+    "loud snoring"
+  ],
+  "sleeping sickness (trypanosomiasis)": [
+    "fever"
+  ],
+  "sparganosis": [
+    "swelling"
+  ],
+  "stroke": [
+    "sudden numbness",
+    "confusion",
+    "difficulty speaking"
+  ],
+  "strongyloidiasis": [
+    "abdominal pain"
+  ],
+  "talaromycosis": [
+    "fever"
+  ],
+  "tay-sachs disease": [
+    "progressive loss of motor skills"
+  ],
+  "tendinitis": [
+    "pain"
+  ],
+  "tetanus": [
+    "muscle stiffness"
+  ],
+  "thalassemia": [
+    "fatigue"
+  ],
+  "toxocariasis": [
+    "fever"
+  ],
+  "toxoplasmosis": [
+    "flu-like symptoms"
+  ],
+  "trachoma": [
+    "eye irritation"
+  ],
+  "trichinellosis": [
+    "muscle pain"
+  ],
+  "trichuriasis": [
+    "abdominal pain"
+  ],
+  "tuberculosis": [
+    "night sweats",
+    "cough",
+    "weight loss"
+  ],
+  "tularemia": [
+    "fever"
+  ],
+  "tungiasis": [
+    "intense itching"
+  ],
+  "type 1 diabetes": [
+    "increased thirst"
+  ],
+  "typhus": [
+    "fever"
+  ],
+  "ulcerative colitis": [
+    "abdominal pain"
+  ],
+  "urinary tract infections (utis)": [
+    "painful urination"
+  ],
+  "vitiligo": [
+    "loss of skin pigment"
+  ],
+  "west nile virus": [
+    "fever"
+  ],
+  "wilson's disease": [
+    "fatigue"
+  ],
+  "yaws": [
+    "skin ulcers"
+  ],
+  "yellow fever": [
+    "fever"
+  ],
+  "zika virus": [
+    "fever",
+    "rash",
+    "joint pain"
+  ],
+  "zoonotic malaria": [
+    "fever"
+  ],
+  "thyroid disorders": [
+    "fatigue"
+  ],
+  "autoimmune diseases (e.g., lupus)": [
+    "fatigue"
+  ],
+  "cancer (breast cancer, lung cancer, prostate cancer, etc.)": [
+    "pain"
+  ],
+  "chronic fatigue syndrome": [
+    "fatigue"
+  ],
+  "diabetes mellitus": [
+    "excessive thirst"
+  ],
+  "hepatitis (a, b, c)": [
+    "fatigue"
+  ],
+  "weight loss": [
+    "fatigue"
+  ],
+  "weight gain": [
+    "unexplained weight gain"
+  ],
+  "acanthosis nigricans": [
+    "darkened skin in folds"
+  ],
+  "anemia": [
+    "fatigue"
+  ],
+  "angina": [
+    "chest pain"
+  ],
+  "anxiety disorder": [
+    "restlessness"
+  ],
+  "aortic aneurysm": [
+    "chest pain"
+  ],
+  "aphasia": [
+    "difficulty speaking or understanding speech"
+  ],
+  "atopic dermatitis": [
+    "red"
+  ],
+  "autoimmune hepatitis": [
+    "fatigue"
+  ],
+  "bacterial infections": [
+    "fever"
+  ],
+  "bipolar disorder": [
+    "mood swings"
+  ],
+  "bladder cancer": [
+    "painful urination"
+  ],
+  "brain tumors": [
+    "headaches"
+  ],
+  "bronchiectasis": [
+    "chronic cough"
+  ],
+  "candidiasis": [
+    "itchy skin"
+  ],
+  "cerebral palsy": [
+    "muscle weakness"
+  ],
+  "chronic sinusitis": [
+    "nasal congestion"
+  ],
+  "cirrhosis": [
+    "jaundice"
+  ],
+  "cleft lip and palate": [
+    "difficulty eating"
+  ],
+  "cold sores": [
+    "blisters on lips or around the mouth"
+  ],
+  "conjunctivitis": [
+    "red eyes"
+  ],
+  "copd (chronic obstructive pulmonary disease)": [
+    "shortness of breath"
+  ],
+  "cystitis": [
+    "painful urination"
+  ],
+  "diabetic neuropathy": [
+    "numbness"
+  ],
+  "diverticulitis": [
+    "abdominal pain"
+  ],
+  "dyslipidemia": [
+    "elevated cholesterol levels"
+  ],
+  "ear infections": [
+    "ear pain"
+  ],
+  "erectile dysfunction": [
+    "difficulty achieving or maintaining an erection"
+  ],
+  "gallbladder disease": [
+    "abdominal pain"
+  ],
+  "gastroenteritis": [
+    "diarrhea"
+  ],
+  "gingivitis": [
+    "red"
+  ],
+  "glaucoma": [
+    "blurred vision"
+  ],
+  "goiter": [
+    "swelling in the neck"
+  ],
+  "graves' disease": [
+    "weight loss"
+  ],
+  "herpes simplex virus (hsv)": [
+    "blisters"
+  ],
+  "hidradenitis suppurativa": [
+    "painful lumps under the skin"
+  ],
+  "hodgkin's lymphoma": [
+    "swollen lymph nodes"
+  ],
+  "hyperlipidemia": [
+    "elevated cholesterol"
+  ],
+  "lymphadenopathy": [
+    "swollen lymph nodes"
+  ],
+  "meniere's disease": [
+    "vertigo"
+  ],
+  "multiple myeloma": [
+    "bone pain"
+  ],
+  "myocardial infarction (heart attack)": [
+    "chest pain"
+  ],
+  "nasal polyps": [
+    "nasal congestion"
+  ],
+  "polycythemia vera": [
+    "headache"
+  ],
+  "post-traumatic stress disorder (ptsd)": [
+    "flashbacks"
+  ],
+  "prostate enlargement (benign prostatic hyperplasia)": [
+    "frequent urination"
+  ],
+  "psoriatic arthritis": [
+    "joint pain"
+  ],
+  "raynaud's disease": [
+    "color changes in fingers"
+  ],
+  "sciatica": [
+    "lower back pain"
+  ],
+  "sinusitis": [
+    "nasal congestion"
+  ],
+  "skin infections": [
+    "redness"
+  ],
+  "spinal cord injury": [
+    "loss of movement"
+  ],
+  "spondylosis": [
+    "neck or back pain"
+  ],
+  "stomach cancer": [
+    "abdominal pain"
+  ],
+  "strep throat": [
+    "sore throat"
+  ],
+  "stress": [
+    "anxiety"
+  ],
+  "systemic lupus erythematosus (sle)": [
+    "fatigue"
+  ],
+  "testicular cancer": [
+    "lump in testicle"
+  ],
+  "thyroid cancer": [
+    "neck lump"
+  ],
+  "tinnitus": [
+    "ringing in the ears"
+  ],
+  "urinary tract infection (uti)": [
+    "painful urination"
+  ],
+  "varicose veins": [
+    "swollen"
+  ],
+  "viral infections": [
+    "fever"
+  ],
+  "whipple's disease": [
+    "abdominal pain"
+  ],
+  "wilson’s disease": [
+    "jaundice"
+  ],
+  "worm infections": [
+    "abdominal pain"
+  ],
+  "yeast infections": [
+    "itching"
+  ],
+  "zoonotic infections": [
+    "fever"
+  ],
+  "bell's palsy": [
+    "facial drooping"
+  ],
+  "crohn’s disease": [
+    "abdominal pain"
+  ],
+  "diabetic retinopathy": [
+    "blurred vision"
+  ],
+  "hodgkin’s lymphoma": [
+    "swollen lymph nodes"
+  ]
+}

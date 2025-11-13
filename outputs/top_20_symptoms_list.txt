@@ -1,0 +1,22 @@
+Top 20 symptoms by row count (case-insensitive grouping)
+
+1. Pain (normalized: pain) — rows: 278, diseases: 139, file: pain_diseases.csv
+2. Fever (normalized: fever) — rows: 166, diseases: 83, file: fever_diseases.csv
+3. Fatigue (normalized: fatigue) — rows: 146, diseases: 73, file: fatigue_diseases.csv
+4. Abdominal pain (normalized: abdominal pain) — rows: 84, diseases: 42, file: abdominal_pain_diseases.csv
+5. Swelling (normalized: swelling) — rows: 76, diseases: 38, file: swelling_diseases.csv
+6. Headache (normalized: headache) — rows: 72, diseases: 36, file: headache_diseases.csv
+7. Nausea (normalized: nausea) — rows: 66, diseases: 33, file: nausea_diseases.csv
+8. Cough (normalized: cough) — rows: 56, diseases: 28, file: cough_diseases.csv
+9. Weakness (normalized: weakness) — rows: 52, diseases: 26, file: weakness_diseases.csv
+10. Weight loss (normalized: weight loss) — rows: 52, diseases: 26, file: weight_loss_diseases.csv
+11. Chest pain (normalized: chest pain) — rows: 50, diseases: 25, file: chest_pain_diseases.csv
+12. Diarrhea (normalized: diarrhea) — rows: 42, diseases: 21, file: diarrhea_diseases.csv
+13. Muscle weakness (normalized: muscle weakness) — rows: 40, diseases: 20, file: muscle_weakness_diseases.csv
+14. Shortness of breath (normalized: shortness of breath) — rows: 40, diseases: 20, file: shortness_of_breath_diseases.csv
+15. Developmental delay (normalized: developmental delay) — rows: 36, diseases: 18, file: developmental_delay_diseases.csv
+16. Joint pain (normalized: joint pain) — rows: 36, diseases: 18, file: joint_pain_diseases.csv
+17. Jaundice (normalized: jaundice) — rows: 34, diseases: 17, file: jaundice_diseases.csv
+18. Swollen lymph nodes (normalized: swollen lymph nodes) — rows: 30, diseases: 15, file: swollen_lymph_nodes_diseases.csv
+19. Red (normalized: red) — rows: 29, diseases: 29, file: red_diseases.csv
+20. Muscle pain (normalized: muscle pain) — rows: 28, diseases: 14, file: muscle_pain_diseases.csv

@@ -1,0 +1,202 @@
+Top 200 symptoms by row count (case-insensitive grouping)
+
+1. Pain (normalized: pain) — rows: 278, diseases: 139, file: pain_diseases.csv
+2. Fever (normalized: fever) — rows: 166, diseases: 83, file: fever_diseases.csv
+3. Fatigue (normalized: fatigue) — rows: 146, diseases: 73, file: fatigue_diseases.csv
+4. Abdominal pain (normalized: abdominal pain) — rows: 84, diseases: 42, file: abdominal_pain_diseases.csv
+5. Swelling (normalized: swelling) — rows: 76, diseases: 38, file: swelling_diseases.csv
+6. Headache (normalized: headache) — rows: 72, diseases: 36, file: headache_diseases.csv
+7. Nausea (normalized: nausea) — rows: 66, diseases: 33, file: nausea_diseases.csv
+8. Cough (normalized: cough) — rows: 56, diseases: 28, file: cough_diseases.csv
+9. Weakness (normalized: weakness) — rows: 52, diseases: 26, file: weakness_diseases.csv
+10. Weight loss (normalized: weight loss) — rows: 52, diseases: 26, file: weight_loss_diseases.csv
+11. Chest pain (normalized: chest pain) — rows: 50, diseases: 25, file: chest_pain_diseases.csv
+12. Diarrhea (normalized: diarrhea) — rows: 42, diseases: 21, file: diarrhea_diseases.csv
+13. Muscle weakness (normalized: muscle weakness) — rows: 40, diseases: 20, file: muscle_weakness_diseases.csv
+14. Shortness of breath (normalized: shortness of breath) — rows: 40, diseases: 20, file: shortness_of_breath_diseases.csv
+15. Developmental delay (normalized: developmental delay) — rows: 36, diseases: 18, file: developmental_delay_diseases.csv
+16. Joint pain (normalized: joint pain) — rows: 36, diseases: 18, file: joint_pain_diseases.csv
+17. Jaundice (normalized: jaundice) — rows: 34, diseases: 17, file: jaundice_diseases.csv
+18. Swollen lymph nodes (normalized: swollen lymph nodes) — rows: 30, diseases: 15, file: swollen_lymph_nodes_diseases.csv
+19. Red (normalized: red) — rows: 29, diseases: 29, file: red_diseases.csv
+20. Muscle pain (normalized: muscle pain) — rows: 28, diseases: 14, file: muscle_pain_diseases.csv
+21. rash (normalized: rash) — rows: 27, diseases: 27, file: rash_diseases.csv
+22. Bloating (normalized: bloating) — rows: 24, diseases: 12, file: bloating_diseases.csv
+23. Itching (normalized: itching) — rows: 22, diseases: 11, file: itching_diseases.csv
+24. Redness (normalized: redness) — rows: 22, diseases: 11, file: redness_diseases.csv
+25. Seizures (normalized: seizures) — rows: 22, diseases: 11, file: seizures_diseases.csv
+26. Difficulty breathing (normalized: difficulty breathing) — rows: 20, diseases: 10, file: difficulty_breathing_diseases.csv
+27. High blood pressure (normalized: high blood pressure) — rows: 18, diseases: 9, file: high_blood_pressure_diseases.csv
+28. Swollen (normalized: swollen) — rows: 18, diseases: 18, file: swollen_diseases.csv
+29. Headaches (normalized: headaches) — rows: 16, diseases: 8, file: headaches_diseases.csv
+30. Numbness (normalized: numbness) — rows: 16, diseases: 8, file: numbness_diseases.csv
+31. vision (normalized: vision) — rows: 16, diseases: 16, file: vision_diseases.csv
+32. breathing (normalized: breathing) — rows: 15, diseases: 15, file: breathing_diseases.csv
+33. Frequent urination (normalized: frequent urination) — rows: 14, diseases: 7, file: frequent_urination_diseases.csv
+34. stiffness (normalized: stiffness) — rows: 13, diseases: 13, file: stiffness_diseases.csv
+35. Anxiety (normalized: anxiety) — rows: 12, diseases: 6, file: anxiety_diseases.csv
+36. Blood in urine (normalized: blood in urine) — rows: 12, diseases: 6, file: blood_in_urine_diseases.csv
+37. Developmental delays (normalized: developmental delays) — rows: 12, diseases: 6, file: developmental_delays_diseases.csv
+38. Intellectual disability (normalized: intellectual disability) — rows: 12, diseases: 6, file: intellectual_disability_diseases.csv
+39. Painful urination (normalized: painful urination) — rows: 12, diseases: 6, file: painful_urination_diseases.csv
+40. Skin rashes (normalized: skin rashes) — rows: 12, diseases: 6, file: skin_rashes_diseases.csv
+41. Weight gain (normalized: weight gain) — rows: 12, diseases: 6, file: weight_gain_diseases.csv
+42. skin rash (normalized: skin rash) — rows: 12, diseases: 12, file: skin_rash_diseases.csv
+43. bleeding (normalized: bleeding) — rows: 11, diseases: 11, file: bleeding_diseases.csv
+44. chills (normalized: chills) — rows: 11, diseases: 11, file: chills_diseases.csv
+45. dizziness (normalized: dizziness) — rows: 11, diseases: 11, file: dizziness_diseases.csv
+46. Back pain (normalized: back pain) — rows: 10, diseases: 5, file: back_pain_diseases.csv
+47. Itchy skin (normalized: itchy skin) — rows: 10, diseases: 5, file: itchy_skin_diseases.csv
+48. Mood swings (normalized: mood swings) — rows: 10, diseases: 5, file: mood_swings_diseases.csv
+49. Sore throat (normalized: sore throat) — rows: 10, diseases: 5, file: sore_throat_diseases.csv
+50. Wheezing (normalized: wheezing) — rows: 10, diseases: 5, file: wheezing_diseases.csv
+51. rashes (normalized: rashes) — rows: 9, diseases: 9, file: rashes_diseases.csv
+52. Blurred vision (normalized: blurred vision) — rows: 8, diseases: 4, file: blurred_vision_diseases.csv
+53. Bone pain (normalized: bone pain) — rows: 8, diseases: 4, file: bone_pain_diseases.csv
+54. Chronic cough (normalized: chronic cough) — rows: 8, diseases: 4, file: chronic_cough_diseases.csv
+55. Dark urine (normalized: dark urine) — rows: 8, diseases: 4, file: dark_urine_diseases.csv
+56. Skin lesions (normalized: skin lesions) — rows: 8, diseases: 4, file: skin_lesions_diseases.csv
+57. Skin ulcers (normalized: skin ulcers) — rows: 8, diseases: 4, file: skin_ulcers_diseases.csv
+58. Tremors (normalized: tremors) — rows: 8, diseases: 4, file: tremors_diseases.csv
+59. difficulty swallowing (normalized: difficulty swallowing) — rows: 8, diseases: 8, file: difficulty_swallowing_diseases.csv
+60. vision problems (normalized: vision problems) — rows: 8, diseases: 8, file: vision_problems_diseases.csv
+61. confusion (normalized: confusion) — rows: 7, diseases: 7, file: confusion_diseases.csv
+62. eyes (normalized: eyes) — rows: 7, diseases: 7, file: eyes_diseases.csv
+63. sweats (normalized: sweats) — rows: 7, diseases: 7, file: sweats_diseases.csv
+64. vomiting (normalized: vomiting) — rows: 7, diseases: 7, file: vomiting_diseases.csv
+65. Irregular periods (normalized: irregular periods) — rows: 6, diseases: 3, file: irregular_periods_diseases.csv
+66. Loss of motor skills (normalized: loss of motor skills) — rows: 6, diseases: 3, file: loss_of_motor_skills_diseases.csv
+67. Pelvic pain (normalized: pelvic pain) — rows: 6, diseases: 3, file: pelvic_pain_diseases.csv
+68. Poor growth (normalized: poor growth) — rows: 6, diseases: 3, file: poor_growth_diseases.csv
+69. Red eyes (normalized: red eyes) — rows: 6, diseases: 3, file: red_eyes_diseases.csv
+70. Restlessness (normalized: restlessness) — rows: 6, diseases: 3, file: restlessness_diseases.csv
+71. Runny nose (normalized: runny nose) — rows: 6, diseases: 3, file: runny_nose_diseases.csv
+72. Short stature (normalized: short stature) — rows: 6, diseases: 3, file: short_stature_diseases.csv
+73. Skin changes (normalized: skin changes) — rows: 6, diseases: 3, file: skin_changes_diseases.csv
+74. Sneezing (normalized: sneezing) — rows: 6, diseases: 3, file: sneezing_diseases.csv
+75. body ache (normalized: body ache) — rows: 6, diseases: 6, file: body_ache_diseases.csv
+76. muscle aches (normalized: muscle aches) — rows: 6, diseases: 6, file: muscle_aches_diseases.csv
+77. night sweats (normalized: night sweats) — rows: 6, diseases: 6, file: night_sweats_diseases.csv
+78. ulcers (normalized: ulcers) — rows: 6, diseases: 6, file: ulcers_diseases.csv
+79. body aches (normalized: body aches) — rows: 5, diseases: 5, file: body_aches_diseases.csv
+80. congestion (normalized: congestion) — rows: 5, diseases: 5, file: congestion_diseases.csv
+81. discharge (normalized: discharge) — rows: 5, diseases: 5, file: discharge_diseases.csv
+82. hearing loss (normalized: hearing loss) — rows: 5, diseases: 5, file: hearing_loss_diseases.csv
+83. lesions (normalized: lesions) — rows: 5, diseases: 5, file: lesions_diseases.csv
+84. spleen (normalized: spleen) — rows: 5, diseases: 5, file: spleen_diseases.csv
+85. Abdominal cramps (normalized: abdominal cramps) — rows: 4, diseases: 2, file: abdominal_cramps_diseases.csv
+86. Cataracts (normalized: cataracts) — rows: 4, diseases: 2, file: cataracts_diseases.csv
+87. Excessive thirst (normalized: excessive thirst) — rows: 4, diseases: 2, file: excessive_thirst_diseases.csv
+88. Excessive worry (normalized: excessive worry) — rows: 4, diseases: 2, file: excessive_worry_diseases.csv
+89. Hair loss (normalized: hair loss) — rows: 4, diseases: 2, file: hair_loss_diseases.csv
+90. High cholesterol (normalized: high cholesterol) — rows: 4, diseases: 2, file: high_cholesterol_diseases.csv
+91. High fever (normalized: high fever) — rows: 4, diseases: 4, file: high_fever_diseases.csv
+92. Irregular heartbeat (normalized: irregular heartbeat) — rows: 4, diseases: 2, file: irregular_heartbeat_diseases.csv
+93. Neurological issues (normalized: neurological issues) — rows: 4, diseases: 2, file: neurological_issues_diseases.csv
+94. Poor feeding (normalized: poor feeding) — rows: 4, diseases: 2, file: poor_feeding_diseases.csv
+95. Swelling in legs (normalized: swelling in legs) — rows: 4, diseases: 2, file: swelling_in_legs_diseases.csv
+96. Vision loss (normalized: vision loss) — rows: 4, diseases: 2, file: vision_loss_diseases.csv
+97. Yellowing of skin (normalized: yellowing of skin) — rows: 4, diseases: 2, file: yellowing_of_skin_diseases.csv
+98. coughing (normalized: coughing) — rows: 4, diseases: 4, file: coughing_diseases.csv
+99. depression (normalized: depression) — rows: 4, diseases: 4, file: depression_diseases.csv
+100. difficulty walking (normalized: difficulty walking) — rows: 4, diseases: 4, file: difficulty_walking_diseases.csv
+101. facial abnormalities (normalized: facial abnormalities) — rows: 4, diseases: 4, file: facial_abnormalities_diseases.csv
+102. feet (normalized: feet) — rows: 4, diseases: 4, file: feet_diseases.csv
+103. fractures (normalized: fractures) — rows: 4, diseases: 4, file: fractures_diseases.csv
+104. irritability (normalized: irritability) — rows: 4, diseases: 4, file: irritability_diseases.csv
+105. sweating (normalized: sweating) — rows: 4, diseases: 4, file: sweating_diseases.csv
+106. Blisters (normalized: blisters) — rows: 3, diseases: 3, file: blisters_diseases.csv
+107. Growth delay (normalized: growth delay) — rows: 3, diseases: 3, file: growth_delay_diseases.csv
+108. Muscle stiffness (normalized: muscle stiffness) — rows: 3, diseases: 3, file: muscle_stiffness_diseases.csv
+109. Nasal congestion (normalized: nasal congestion) — rows: 3, diseases: 3, file: nasal_congestion_diseases.csv
+110. Persistent cough (normalized: persistent cough) — rows: 3, diseases: 3, file: persistent_cough_diseases.csv
+111. blood in stool (normalized: blood in stool) — rows: 3, diseases: 3, file: blood_in_stool_diseases.csv
+112. constipation (normalized: constipation) — rows: 3, diseases: 3, file: constipation_diseases.csv
+113. cramps (normalized: cramps) — rows: 3, diseases: 3, file: cramps_diseases.csv
+114. difficulty speaking (normalized: difficulty speaking) — rows: 3, diseases: 3, file: difficulty_speaking_diseases.csv
+115. dry skin (normalized: dry skin) — rows: 3, diseases: 3, file: dry_skin_diseases.csv
+116. frequent infections (normalized: frequent infections) — rows: 3, diseases: 3, file: frequent_infections_diseases.csv
+117. indigestion (normalized: indigestion) — rows: 3, diseases: 3, file: indigestion_diseases.csv
+118. lethargy (normalized: lethargy) — rows: 3, diseases: 3, file: lethargy_diseases.csv
+119. loss of appetite (normalized: loss of appetite) — rows: 3, diseases: 3, file: loss_of_appetite_diseases.csv
+120. skeletal deformities (normalized: skeletal deformities) — rows: 3, diseases: 3, file: skeletal_deformities_diseases.csv
+121. stiff neck (normalized: stiff neck) — rows: 3, diseases: 3, file: stiff_neck_diseases.csv
+122. tingling (normalized: tingling) — rows: 3, diseases: 3, file: tingling_diseases.csv
+123. Elevated cholesterol (normalized: elevated cholesterol) — rows: 2, diseases: 2, file: elevated_cholesterol_diseases.csv
+124. Enlarged liver (normalized: enlarged liver) — rows: 2, diseases: 2, file: enlarged_liver_diseases.csv
+125. Enlarged organs (normalized: enlarged organs) — rows: 2, diseases: 2, file: enlarged_organs_diseases.csv
+126. Fragile bones (normalized: fragile bones) — rows: 2, diseases: 2, file: fragile_bones_diseases.csv
+127. Heartburn (normalized: heartburn) — rows: 2, diseases: 2, file: heartburn_diseases.csv
+128. Increased thirst (normalized: increased thirst) — rows: 2, diseases: 2, file: increased_thirst_diseases.csv
+129. Itchy rash (normalized: itchy rash) — rows: 2, diseases: 2, file: itchy_rash_diseases.csv
+130. Memory loss (normalized: memory loss) — rows: 2, diseases: 2, file: memory_loss_diseases.csv
+131. Pimples (normalized: pimples) — rows: 2, diseases: 2, file: pimples_diseases.csv
+132. Severe headache (normalized: severe headache) — rows: 2, diseases: 2, file: severe_headache_diseases.csv
+133. abscesses (normalized: abscesses) — rows: 2, diseases: 2, file: abscesses_diseases.csv
+134. breathing problems (normalized: breathing problems) — rows: 2, diseases: 2, file: breathing_problems_diseases.csv
+135. difficulty moving (normalized: difficulty moving) — rows: 2, diseases: 2, file: difficulty_moving_diseases.csv
+136. difficulty urinating (normalized: difficulty urinating) — rows: 2, diseases: 2, file: difficulty_urinating_diseases.csv
+137. discomfort after eating (normalized: discomfort after eating) — rows: 2, diseases: 2, file: discomfort_after_eating_diseases.csv
+138. drainage (normalized: drainage) — rows: 2, diseases: 2, file: drainage_diseases.csv
+139. easy bruising (normalized: easy bruising) — rows: 2, diseases: 2, file: easy_bruising_diseases.csv
+140. enlarged spleen (normalized: enlarged spleen) — rows: 2, diseases: 2, file: enlarged_spleen_diseases.csv
+141. eye pain (normalized: eye pain) — rows: 2, diseases: 2, file: eye_pain_diseases.csv
+142. facial pain (normalized: facial pain) — rows: 2, diseases: 2, file: facial_pain_diseases.csv
+143. frequent urge to urinate (normalized: frequent urge to urinate) — rows: 2, diseases: 2, file: frequent_urge_to_urinate_diseases.csv
+144. genital area (normalized: genital area) — rows: 2, diseases: 2, file: genital_area_diseases.csv
+145. heart defects (normalized: heart defects) — rows: 2, diseases: 2, file: heart_defects_diseases.csv
+146. heat (normalized: heat) — rows: 2, diseases: 2, file: heat_diseases.csv
+147. inflamed (normalized: inflamed) — rows: 2, diseases: 2, file: inflamed_diseases.csv
+148. irritation (normalized: irritation) — rows: 2, diseases: 2, file: irritation_diseases.csv
+149. kidney issues (normalized: kidney issues) — rows: 2, diseases: 2, file: kidney_issues_diseases.csv
+150. kidney stones (normalized: kidney stones) — rows: 2, diseases: 2, file: kidney_stones_diseases.csv
+151. liver enlargement (normalized: liver enlargement) — rows: 2, diseases: 2, file: liver_enlargement_diseases.csv
+152. low blood pressure (normalized: low blood pressure) — rows: 2, diseases: 2, file: low_blood_pressure_diseases.csv
+153. mouth sores (normalized: mouth sores) — rows: 2, diseases: 2, file: mouth_sores_diseases.csv
+154. muscle rigidity (normalized: muscle rigidity) — rows: 2, diseases: 2, file: muscle_rigidity_diseases.csv
+155. nervousness (normalized: nervousness) — rows: 2, diseases: 2, file: nervousness_diseases.csv
+156. obesity (normalized: obesity) — rows: 2, diseases: 2, file: obesity_diseases.csv
+157. pale skin (normalized: pale skin) — rows: 2, diseases: 2, file: pale_skin_diseases.csv
+158. palpitations (normalized: palpitations) — rows: 2, diseases: 2, file: palpitations_diseases.csv
+159. paralysis (normalized: paralysis) — rows: 2, diseases: 2, file: paralysis_diseases.csv
+160. photosensitivity (normalized: photosensitivity) — rows: 2, diseases: 2, file: photosensitivity_diseases.csv
+161. psychiatric symptoms (normalized: psychiatric symptoms) — rows: 2, diseases: 2, file: psychiatric_symptoms_diseases.csv
+162. pus (normalized: pus) — rows: 2, diseases: 2, file: pus_diseases.csv
+163. rapid heartbeat (normalized: rapid heartbeat) — rows: 2, diseases: 2, file: rapid_heartbeat_diseases.csv
+164. sleep disturbances (normalized: sleep disturbances) — rows: 2, diseases: 2, file: sleep_disturbances_diseases.csv
+165. spasms (normalized: spasms) — rows: 2, diseases: 2, file: spasms_diseases.csv
+166. speech problems (normalized: speech problems) — rows: 2, diseases: 2, file: speech_problems_diseases.csv
+167. stress (normalized: stress) — rows: 2, diseases: 2, file: stress_diseases.csv
+168. thickened skin (normalized: thickened skin) — rows: 2, diseases: 2, file: thickened_skin_diseases.csv
+169. tiredness (normalized: tiredness) — rows: 2, diseases: 2, file: tiredness_diseases.csv
+170. unexplained weight loss (normalized: unexplained weight loss) — rows: 2, diseases: 2, file: unexplained_weight_loss_diseases.csv
+171. vision issues (normalized: vision issues) — rows: 2, diseases: 2, file: vision_issues_diseases.csv
+172. white patches (normalized: white patches) — rows: 2, diseases: 2, file: white_patches_diseases.csv
+173. Abdominal bloating (normalized: abdominal bloating) — rows: 1, diseases: 1, file: abdominal_bloating_diseases.csv
+174. Abdominal obesity (normalized: abdominal obesity) — rows: 1, diseases: 1, file: abdominal_obesity_diseases.csv
+175. Arterial aneurysms (normalized: arterial aneurysms) — rows: 1, diseases: 1, file: arterial_aneurysms_diseases.csv
+176. Blisters on lips or around the mouth (normalized: blisters on lips or around the mouth) — rows: 1, diseases: 1, file: blisters_on_lips_or_around_the_mouth_diseases.csv
+177. Bone fractures (normalized: bone fractures) — rows: 1, diseases: 1, file: bone_fractures_diseases.csv
+178. Breathlessness (normalized: breathlessness) — rows: 1, diseases: 1, file: breathlessness_diseases.csv
+179. Changes in bowel habits (normalized: changes in bowel habits) — rows: 1, diseases: 1, file: changes_in_bowel_habits_diseases.csv
+180. Changes in mole appearance (normalized: changes in mole appearance) — rows: 1, diseases: 1, file: changes_in_mole_appearance_diseases.csv
+181. Chronic pain (normalized: chronic pain) — rows: 1, diseases: 1, file: chronic_pain_diseases.csv
+182. Chronic respiratory infections (normalized: chronic respiratory infections) — rows: 1, diseases: 1, file: chronic_respiratory_infections_diseases.csv
+183. Color changes in fingers (normalized: color changes in fingers) — rows: 1, diseases: 1, file: color_changes_in_fingers_diseases.csv
+184. Craniofacial abnormalities (normalized: craniofacial abnormalities) — rows: 1, diseases: 1, file: craniofacial_abnormalities_diseases.csv
+185. Dark skin growth (normalized: dark skin growth) — rows: 1, diseases: 1, file: dark_skin_growth_diseases.csv
+186. Darkened skin in folds (normalized: darkened skin in folds) — rows: 1, diseases: 1, file: darkened_skin_in_folds_diseases.csv
+187. Difficulty achieving or maintaining an erection (normalized: difficulty achieving or maintaining an erection) — rows: 1, diseases: 1, file: difficulty_achieving_or_maintaining_an_erection_diseases.csv
+188. Difficulty eating (normalized: difficulty eating) — rows: 1, diseases: 1, file: difficulty_eating_diseases.csv
+189. Difficulty falling asleep (normalized: difficulty falling asleep) — rows: 1, diseases: 1, file: difficulty_falling_asleep_diseases.csv
+190. Difficulty sleeping (normalized: difficulty sleeping) — rows: 1, diseases: 1, file: difficulty_sleeping_diseases.csv
+191. Difficulty speaking or understanding speech (normalized: difficulty speaking or understanding speech) — rows: 1, diseases: 1, file: difficulty_speaking_or_understanding_speech_diseases.csv
+192. Discolored teeth (normalized: discolored teeth) — rows: 1, diseases: 1, file: discolored_teeth_diseases.csv
+193. Dry mouth (normalized: dry mouth) — rows: 1, diseases: 1, file: dry_mouth_diseases.csv
+194. Ear pain (normalized: ear pain) — rows: 1, diseases: 1, file: ear_pain_diseases.csv
+195. Elevated cholesterol levels (normalized: elevated cholesterol levels) — rows: 1, diseases: 1, file: elevated_cholesterol_levels_diseases.csv
+196. Enlarged hands (normalized: enlarged hands) — rows: 1, diseases: 1, file: enlarged_hands_diseases.csv
+197. Excessive weight (normalized: excessive weight) — rows: 1, diseases: 1, file: excessive_weight_diseases.csv
+198. Extreme mood swings (normalized: extreme mood swings) — rows: 1, diseases: 1, file: extreme_mood_swings_diseases.csv
+199. Extreme tiredness (normalized: extreme tiredness) — rows: 1, diseases: 1, file: extreme_tiredness_diseases.csv
+200. Eye irritation (normalized: eye irritation) — rows: 1, diseases: 1, file: eye_irritation_diseases.csv

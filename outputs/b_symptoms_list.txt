@@ -1,0 +1,33 @@
+Found 31 unique symptom tokens starting with 'b'.
+
+breathing,15
+Bloating,12
+bloating,12
+bleeding,11
+Blood in urine,6
+blood in urine,6
+body ache,6
+Back pain,5
+back pain,5
+body aches,5
+Blurred vision,4
+Bone pain,4
+blurred vision,4
+bone pain,4
+Blisters,3
+blood in stool,3
+breathing problems,2
+Blisters on lips or around the mouth,1
+Bone fractures,1
+Breathlessness,1
+balance problems,1
+bald patches,1
+blackheads,1
+bleeding while brushing,1
+blindness,1
+blood in sputum,1
+bone deformities,1
+brittle hair,1
+bulging eyes,1
+bull's-eye rash,1
+burning sensation,1

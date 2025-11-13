@@ -1,0 +1,65 @@
+Input file: E:\cloning wala projects\ayurved part 2\e-ayurveda-solution\symptom_disease_map_full.csv
+Output file: E:\cloning wala projects\ayurved part 2\outputs\fatigue_diseases.csv
+Unique diseases: 74
+
+First 60 diseases:
+Addison's Disease
+Adrenal Insufficiency
+Anemia
+Atherosclerosis
+Autoimmune Diseases (e.g., Lupus)
+Autoimmune Hepatitis
+Bacterial Infections
+Barth Syndrome
+Cancer (Breast Cancer, Lung Cancer, Prostate Cancer, etc.)
+Cardiomyopathy
+Chagas Disease
+Chickenpox
+Chronic Fatigue Syndrome
+Chronic Kidney Disease (CKD)
+Chronic Obstructive Pulmonary Disease (COPD)
+Cirrhosis
+Coronary Artery Disease
+Crohn's Disease
+Crohn’s Disease
+Cushing's Syndrome
+Depression
+Diabetes
+Diabetes Mellitus Type 1 and Type 2
+Dyslipidemia
+Fibromyalgia
+Glomerulonephritis
+Hantavirus Pulmonary Syndrome
+Hashimoto's Thyroiditis
+Heart Disease
+Heart Failure
+Hemochromatosis
+Hepatitis
+Hepatitis (A, B, C)
+Hepatitis B
+Hepatitis C
+Hypercholesterolemia
+Hyperlipidemia
+Hyperparathyroidism
+Hypothyroidism
+Inflammatory Bowel Disease (IBD)
+Influenza
+Kala-azar
+Kidney Cancer
+Leukemia
+Liver Cirrhosis
+Liver Disorders
+Lupus
+Lyme Disease
+Mansonelliasis
+Mental Stress
+Mitochondrial Myopathy
+Multiple Myeloma
+Nephrotic Syndrome
+Obesity
+Opistorchiasis
+Pneumoconiosis
+Polycythemia Vera
+Renal Hypertension
+Rheumatoid Arthritis
+Schistosomiasis

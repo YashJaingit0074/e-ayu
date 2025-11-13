@@ -1,0 +1,1679 @@
+Symptom,Disease
+Sore throat,Cough
+Sore throat,Diphtheria
+Sore throat,Influenza
+Sore throat,Measles
+Sore throat,Strep Throat
+Chest Congestion,Cough
+Frequent urination,Diabetes
+Frequent urination,Autosomal Dominant Polycystic Kidney Disease
+Frequent urination,Diabetes Mellitus Type 1 and Type 2
+Frequent urination,Type 1 Diabetes
+Frequent urination,Diabetes Mellitus
+Frequent urination,Prostate Enlargement (Benign Prostatic Hyperplasia)
+Frequent urination,Urinary Tract Infection (UTI)
+Fatigue,Diabetes
+Fatigue,Addison's Disease
+Fatigue,Adrenal Insufficiency
+Fatigue,Atherosclerosis
+Fatigue,Barth Syndrome
+Fatigue,Cardiomyopathy
+Fatigue,Chagas Disease
+Fatigue,Chronic Kidney Disease (CKD)
+Fatigue,Chronic Obstructive Pulmonary Disease (COPD)
+Fatigue,Coronary Artery Disease
+Fatigue,Cushing's Syndrome
+Fatigue,Depression
+Fatigue,Diabetes Mellitus Type 1 and Type 2
+Fatigue,Fibromyalgia
+Fatigue,Hantavirus Pulmonary Syndrome
+Fatigue,Hashimoto's Thyroiditis
+Fatigue,Heart Disease
+Fatigue,Heart Failure
+Fatigue,Hemochromatosis
+Fatigue,Hepatitis
+Fatigue,Hepatitis B
+Fatigue,Hepatitis C
+Fatigue,Hypercholesterolemia
+Fatigue,Hyperparathyroidism
+Fatigue,Hypothyroidism
+Fatigue,Inflammatory Bowel Disease (IBD)
+Fatigue,Influenza
+Fatigue,Kala-azar
+Fatigue,Kidney Cancer
+Fatigue,Leukemia
+Fatigue,Liver Cirrhosis
+Fatigue,Liver Disorders
+Fatigue,Lupus
+Fatigue,Lyme Disease
+Fatigue,Mansonelliasis
+Fatigue,Mental Stress
+Fatigue,Mitochondrial Myopathy
+Fatigue,Nephrotic Syndrome
+Fatigue,Obesity
+Fatigue,Opistorchiasis
+Fatigue,Pneumoconiosis
+Fatigue,Renal Hypertension
+Fatigue,Rheumatoid Arthritis
+Fatigue,Schistosomiasis
+Fatigue,Sickle Cell Anemia
+Fatigue,Sjogren's Syndrome
+Fatigue,Sleep Apnea
+Fatigue,Sleeping Sickness (Trypanosomiasis)
+Fatigue,Thalassemia
+Fatigue,Tuberculosis
+Fatigue,Tularemia
+Fatigue,Wilson's Disease
+Fatigue,Thyroid Disorders
+Fatigue,"Autoimmune Diseases (e.g., Lupus)"
+Fatigue,"Cancer (Breast Cancer, Lung Cancer, Prostate Cancer, etc.)"
+Fatigue,Chronic Fatigue Syndrome
+Fatigue,Glomerulonephritis
+Fatigue,"Hepatitis (A, B, C)"
+Fatigue,Weight Loss
+Fatigue,Weight Gain
+Fatigue,Anemia
+Fatigue,Autoimmune Hepatitis
+Fatigue,Bacterial Infections
+Fatigue,Cirrhosis
+Fatigue,Crohn's Disease
+Fatigue,Dyslipidemia
+Fatigue,Hyperlipidemia
+Fatigue,Multiple Myeloma
+Fatigue,Polycythemia Vera
+Fatigue,Stress
+Fatigue,Systemic Lupus Erythematosus (SLE)
+Fatigue,Viral Infections
+Fatigue,Crohn’s Disease
+High blood pressure,Hypertension
+High blood pressure,Autosomal Dominant Polycystic Kidney Disease
+High blood pressure,Cushing's Syndrome
+High blood pressure,Dihydropyrimidine Dehydrogenase Deficiency
+High blood pressure,Glomerulonephritis
+High blood pressure,Liddle Syndrome
+High blood pressure,Metabolic Syndrome
+High blood pressure,Polycystic Kidney Disease
+High blood pressure,Renal Hypertension
+Stress,Hypertension
+Stress,Nipah Virus Infection
+Severe headache,Migraine
+Severe headache,Naegleria Infection
+Nausea,Migraine
+Nausea,Acidity
+Nausea,Ascariasis
+Nausea,Ciguatera Poisoning
+Nausea,Cryptosporidiosis
+Nausea,Digestive Disorders
+Nausea,Dracunculiasis
+Nausea,Echinococcosis
+Nausea,Fascioliasis
+Nausea,Gallstones
+Nausea,Giardiasis
+Nausea,Hepatitis C
+Nausea,Hookworm Infection
+Nausea,Indigestion
+Nausea,Liver Cirrhosis
+Nausea,Malaria
+Nausea,Meningitis
+Nausea,Naegleria Infection
+Nausea,Opistorchiasis
+Nausea,Pancreatitis
+Nausea,Peptic Ulcers
+Nausea,Primary Amebic Meningoencephalitis
+Nausea,Renal Hypertension
+Nausea,Yellow Fever
+Nausea,"Hepatitis (A, B, C)"
+Nausea,Hepatitis
+Nausea,Autoimmune Hepatitis
+Nausea,Brain Tumors
+Nausea,Gallbladder Disease
+Nausea,Kidney Stones
+Nausea,Myocardial Infarction (Heart Attack)
+Nausea,Stomach Cancer
+Nausea,Zoonotic Infections
+Joint pain,Arthritis
+Joint pain,Alkaptonuria
+Joint pain,Barth Syndrome
+Joint pain,Chikungunya
+Joint pain,Dengue Fever
+Joint pain,Gout
+Joint pain,Hemochromatosis
+Joint pain,Lupus
+Joint pain,Mansonelliasis
+Joint pain,Osteoarthritis
+Joint pain,Pinta
+Joint pain,Rheumatoid Arthritis
+Joint pain,Rift Valley Fever
+Joint pain,Sjogren's Syndrome
+Joint pain,Zika Virus
+Joint pain,"Autoimmune Diseases (e.g., Lupus)"
+Joint pain,Psoriatic Arthritis
+Joint pain,Systemic Lupus Erythematosus (SLE)
+Swelling,Arthritis
+Swelling,Acute Kidney Injury
+Swelling,Asthma
+Swelling,Chagas Disease
+Swelling,Chromoblastomycosis
+Swelling,Chronic Kidney Disease (CKD)
+Swelling,Contact Dermatitis
+Swelling,Fascioliasis
+Swelling,Filariasis
+Swelling,Glomerulonephritis
+Swelling,Gout
+Swelling,Guinea Worm Disease
+Swelling,Heart Failure
+Swelling,Hydronephrosis
+Swelling,Inflammation
+Swelling,Joint Pain
+Swelling,Liver Cirrhosis
+Swelling,Loiasis
+Swelling,Lymphatic Filariasis
+Swelling,Mycetoma
+Swelling,Nephrotic Syndrome
+Swelling,Osteoarthritis
+Swelling,Pinta
+Swelling,Rheumatoid Arthritis
+Swelling,Sickle Cell Anemia
+Swelling,"Skin Infections (Bacterial, Fungal, Viral)"
+Swelling,Sparganosis
+Swelling,Tendinitis
+Swelling,Trachoma
+Swelling,Trichinellosis
+Swelling,Tungiasis
+Swelling,Yaws
+Swelling,Cardiomyopathy
+Swelling,Goiter
+Swelling,Psoriatic Arthritis
+Swelling,Skin Infections
+Swelling,Testicular Cancer
+Swelling,Yeast Infections
+Runny nose,Common Cold
+Runny nose,Cold
+Runny nose,Measles
+Sneezing,Common Cold
+Sneezing,Allergies
+Sneezing,Cold
+Mild Fever,Common Cold
+Bloating,Indigestion
+Bloating,Celiac Disease
+Bloating,Constipation
+Bloating,Digestive Disorders
+Bloating,Giardiasis
+Bloating,Irritable Bowel Syndrome (IBS)
+Bloating,Ovarian Cancer
+Bloating,Peptic Ulcers
+Bloating,Gallstones
+Bloating,Weight Gain
+Bloating,Diverticulitis
+Bloating,Worm Infections
+Abdominal Discomfort,Indigestion
+Wheezing,Asthma
+Wheezing,Chronic Obstructive Pulmonary Disease (COPD)
+Wheezing,Respiratory Issues
+Wheezing,Bronchiectasis
+Wheezing,COPD (Chronic Obstructive Pulmonary Disease)
+Shortness Of Breath,Asthma
+Shortness Of Breath,Cardiomyopathy
+Shortness Of Breath,Coronary Artery Disease
+Shortness Of Breath,Emphysema
+Shortness Of Breath,Hantavirus Pulmonary Syndrome
+Shortness Of Breath,Heart Attack (Myocardial Infarction)
+Shortness Of Breath,Heart Disease
+Shortness Of Breath,Heart Failure
+Shortness Of Breath,Lung Cancer
+Shortness Of Breath,Pneumoconiosis
+Shortness Of Breath,Pulmonary Hypertension
+Shortness Of Breath,Respiratory Issues
+Shortness Of Breath,Atherosclerosis
+Shortness Of Breath,Hypertension
+Shortness Of Breath,Anemia
+Shortness Of Breath,Angina
+Shortness Of Breath,Aortic Aneurysm
+Shortness Of Breath,COPD (Chronic Obstructive Pulmonary Disease)
+Shortness Of Breath,Myocardial Infarction (Heart Attack)
+Shortness Of Breath,Pneumonia
+Hard stools,Constipation
+Infrequent Bowel Movement,Constipation
+Difficulty sleeping,Insomnia
+Restlessness,Insomnia
+Restlessness,Anxiety
+Restlessness,Anxiety Disorder
+Weight gain,Obesity
+Weight gain,Cushing's Syndrome
+Weight gain,Hashimoto's Thyroiditis
+Weight gain,Hypothyroidism
+Weight gain,Polycystic Ovary Syndrome (PCOS)
+Weight gain,Weight Gain
+Lethargy,Obesity
+Lethargy,Carbamoyl Phosphate Synthetase I Deficiency Disease
+Lethargy,Maple Syrup Urine Disease
+Itchy rash,Skin Allergy
+Itchy rash,Chickenpox
+Redness,Skin Allergy
+Redness,Chickenpox
+Redness,Contact Dermatitis
+Redness,Gout
+Redness,Inflammation
+Redness,Rosacea
+Redness,Skin Diseases
+Redness,"Skin Infections (Bacterial, Fungal, Viral)"
+Redness,Chronic Fatigue Syndrome
+Redness,Skin Infections
+Redness,Yeast Infections
+Excessive worry,Anxiety
+Excessive worry,Anxiety Disorder
+High temperature,Fever
+Body Aches,Fever
+Body Aches,Influenza
+Body Aches,West Nile Virus
+Body Aches,Zoonotic Malaria
+Body Aches,Viral Infections
+Heartburn,Acidity
+Heartburn,Gastroesophageal Reflux Disease (GERD)
+Sour Taste,Acidity
+Pimples,Acne
+Pimples,Rosacea
+Blackheads,Acne
+Oily Skin,Acne
+Enlarged hands,Acromegaly
+Feet,Acromegaly
+Feet,"Hand, Foot, and Mouth Disease"
+Feet,Sickle Cell Anemia
+Feet,Cardiomyopathy
+Thickened Skin,Acromegaly
+Thickened Skin,Acanthosis Nigricans
+Reduced urine output,Acute Kidney Injury
+Confusion,Acute Kidney Injury
+Confusion,Alzheimer's Disease
+Confusion,Dementia
+Confusion,Epilepsy
+Confusion,Hypoglycemia
+Confusion,Nipah Virus Infection
+Confusion,Stroke
+Low Blood Pressure,Addison's Disease
+Low Blood Pressure,Adrenal Insufficiency
+Weight Loss,Addison's Disease
+Weight Loss,Celiac Disease
+Weight Loss,Crohn's Disease
+Weight Loss,Graves Disease
+Weight Loss,HIV/AIDS
+Weight Loss,Hyperthyroidism
+Weight Loss,Inflammatory Bowel Disease (IBD)
+Weight Loss,Kala-azar
+Weight Loss,Leishmaniasis
+Weight Loss,Leukemia
+Weight Loss,Liver Cancer
+Weight Loss,Lymphoma
+Weight Loss,Pancreatic Cancer
+Weight Loss,Paracoccidioidomycosis
+Weight Loss,Type 1 Diabetes
+Weight Loss,"Cancer (Breast Cancer, Lung Cancer, Prostate Cancer, etc.)"
+Weight Loss,Kidney Cancer
+Weight Loss,Tuberculosis
+Weight Loss,Weight Loss
+Weight Loss,Colorectal Cancer
+Weight Loss,Graves' Disease
+Weight Loss,Stomach Cancer
+Weight Loss,Thyroid Cancer
+Weight Loss,Whipple's Disease
+Weight Loss,Worm Infections
+Weight Loss,Hodgkin’s Lymphoma
+Muscle Weakness,Adrenal Insufficiency
+Muscle Weakness,Amyotrophic Lateral Sclerosis (ALS)
+Muscle Weakness,Argininemia
+Muscle Weakness,Barth Syndrome
+Muscle Weakness,Atherosclerosis
+Muscle Weakness,Canavan Disease
+Muscle Weakness,Duchenne Muscular Dystrophy
+Muscle Weakness,Kearns-Sayre Syndrome
+Muscle Weakness,Krabbe Disease
+Muscle Weakness,Leprosy
+Muscle Weakness,Leukodystrophy
+Muscle Weakness,Lipid Storage Disease
+Muscle Weakness,Mitochondrial Myopathy
+Muscle Weakness,Multiple Sclerosis
+Muscle Weakness,Muscular Dystrophy
+Muscle Weakness,Myasthenia Gravis
+Muscle Weakness,Neurotoxocariasis
+Muscle Weakness,Polio
+Muscle Weakness,Cerebral Palsy
+Muscle Weakness,Spondylosis
+Low Energy,Adrenal Insufficiency
+Dark urine,Alkaptonuria
+Dark urine,Hepatitis B
+Dark urine,Hepatitis C
+Dark urine,Glomerulonephritis
+Stiffness,Alkaptonuria
+Stiffness,Arthritis
+Stiffness,Back Pain
+Stiffness,Joint Pain
+Stiffness,Mucopolysaccharidosis
+Stiffness,Myotonia Congenita
+Stiffness,Osteoarthritis
+Stiffness,Rheumatoid Arthritis
+Stiffness,Tendinitis
+Stiffness,Tetanus
+Stiffness,Parkinson's Disease
+Stiffness,Psoriatic Arthritis
+Stiffness,Spondylosis
+Itching,Allergies
+Itching,Contact Dermatitis
+Itching,Loiasis
+Itching,Melanoma
+Itching,Psoriasis
+Itching,Skin Cancer (Melanoma)
+Itching,Skin Diseases
+Itching,"Skin Infections (Bacterial, Fungal, Viral)"
+Itching,Tungiasis
+Itching,Herpes Simplex Virus (HSV)
+Itching,Yeast Infections
+Rashes,Allergies
+Rashes,Chickenpox
+Rashes,Eczema (Atopic Dermatitis)
+Rashes,Langerhans Cell Histiocytosis
+Rashes,Lupus
+Rashes,Strongyloidiasis
+Rashes,"Autoimmune Diseases (e.g., Lupus)"
+Rashes,Psoriatic Arthritis
+Rashes,Systemic Lupus Erythematosus (SLE)
+Hair loss,Alopecia
+Hair loss,Thyroid Disorders
+Thinning Of Scalp,Alopecia
+Memory loss,Alzheimer's Disease
+Memory loss,Dementia
+Difficulty Thinking,Alzheimer's Disease
+Abdominal pain,Amebiasis
+Abdominal pain,Ascariasis
+Abdominal pain,Clonorchiasis
+Abdominal pain,Colorectal Cancer
+Abdominal pain,Crohn's Disease
+Abdominal pain,Cryptosporidiosis
+Abdominal pain,Dengue Hemorrhagic Fever
+Abdominal pain,Echinococcosis
+Abdominal pain,Fascioliasis
+Abdominal pain,Gallstones
+Abdominal pain,Hepatitis A
+Abdominal pain,Hepatitis B
+Abdominal pain,Hookworm Infection
+Abdominal pain,Hydronephrosis
+Abdominal pain,Inflammatory Bowel Disease (IBD)
+Abdominal pain,Liver Cancer
+Abdominal pain,Mansonelliasis
+Abdominal pain,Marburg Virus Disease
+Abdominal pain,Neurotoxocariasis
+Abdominal pain,Opistorchiasis
+Abdominal pain,Pancreatic Cancer
+Abdominal pain,Pancreatitis
+Abdominal pain,Polycystic Kidney Disease
+Abdominal pain,Porphyria
+Abdominal pain,Schistosomiasis
+Abdominal pain,Strongyloidiasis
+Abdominal pain,Toxocariasis
+Abdominal pain,Trichuriasis
+Abdominal pain,Ulcerative Colitis
+Abdominal pain,"Hepatitis (A, B, C)"
+Abdominal pain,Autoimmune Hepatitis
+Abdominal pain,Cirrhosis
+Abdominal pain,Diverticulitis
+Abdominal pain,Gallbladder Disease
+Abdominal pain,Hepatitis
+Abdominal pain,Irritable Bowel Syndrome (IBS)
+Abdominal pain,Peptic Ulcers
+Abdominal pain,Stomach Cancer
+Abdominal pain,Urinary Tract Infection (UTI)
+Abdominal pain,Whipple's Disease
+Abdominal pain,Worm Infections
+Abdominal pain,Crohn’s Disease
+Diarrhea,Amebiasis
+Diarrhea,Celiac Disease
+Diarrhea,Ciguatera Poisoning
+Diarrhea,Clonorchiasis
+Diarrhea,Crohn's Disease
+Diarrhea,Cryptosporidiosis
+Diarrhea,Dihydropyrimidine Dehydrogenase Deficiency
+Diarrhea,Ebola
+Diarrhea,Giardiasis
+Diarrhea,HIV/AIDS
+Diarrhea,Hookworm Infection
+Diarrhea,Inflammatory Bowel Disease (IBD)
+Diarrhea,Irritable Bowel Syndrome (IBS)
+Diarrhea,Schistosomiasis
+Diarrhea,Strongyloidiasis
+Diarrhea,Trichuriasis
+Diarrhea,Ulcerative Colitis
+Diarrhea,Gastroenteritis
+Diarrhea,Whipple's Disease
+Diarrhea,Worm Infections
+Diarrhea,Crohn’s Disease
+Fever,Common Cold
+Fever,Amebiasis
+Fever,Asparagine Synthetase Deficiency
+Fever,Barth Syndrome
+Fever,Bubonic Plague
+Fever,Buruli Ulcer
+Fever,COVID-19
+Fever,Chagas Disease
+Fever,Chickenpox
+Fever,Chikungunya
+Fever,Crimean-Congo Hemorrhagic Fever
+Fever,Dengue Fever
+Fever,Dengue Hemorrhagic Fever
+Fever,Diphtheria
+Fever,Dracunculiasis
+Fever,Ebola
+Fever,Ebola Virus
+Fever,Fascioliasis
+Fever,Filariasis
+Fever,Guinea Worm Disease
+Fever,HIV/AIDS
+Fever,"Hand, Foot, and Mouth Disease"
+Fever,Hantavirus Pulmonary Syndrome
+Fever,Hendra Virus Infection
+Fever,Hepatitis A
+Fever,Histoplasmosis
+Fever,Influenza
+Fever,Kala-azar
+Fever,Kawasaki Disease
+Fever,Kyasanur Forest Disease
+Fever,Lassa Fever
+Fever,Leishmaniasis
+Fever,Leptospirosis
+Fever,Loiasis
+Fever,Lyme Disease
+Fever,Lymphatic Filariasis
+Fever,Lymphoma
+Fever,Malaria
+Fever,Mansonelliasis
+Fever,Marburg
+Fever,Marburg Virus Disease
+Fever,Measles
+Fever,Melioidosis
+Fever,Meningitis
+Fever,Monkeypox
+Fever,Naegleria Infection
+Fever,Neurotoxocariasis
+Fever,Nipah Virus Infection
+Fever,Paracoccidioidomycosis
+Fever,Paragonimiasis
+Fever,Pneumocystis Pneumonia
+Fever,Pneumonia
+Fever,Pneumonic Plague
+Fever,Polio
+Fever,Primary Amebic Meningoencephalitis
+Fever,Q Fever
+Fever,Rabies
+Fever,Relapsing Fever
+Fever,Rickettsial Diseases
+Fever,Rift Valley Fever
+Fever,Rocky Mountain Spotted Fever
+Fever,Septicemic Plague
+Fever,Sleeping Sickness (Trypanosomiasis)
+Fever,Talaromycosis
+Fever,Toxocariasis
+Fever,Trichinellosis
+Fever,Tularemia
+Fever,Typhus
+Fever,West Nile Virus
+Fever,Yaws
+Fever,Yellow Fever
+Fever,Zika Virus
+Fever,Zoonotic Malaria
+Fever,Leukemia
+Fever,Tuberculosis
+Fever,Bacterial Infections
+Fever,Hodgkin's Lymphoma
+Fever,Lymphadenopathy
+Fever,Pancreatitis
+Fever,Strep Throat
+Fever,Viral Infections
+Fever,Zoonotic Infections
+Fever,Hodgkin’s Lymphoma
+Difficulty Swallowing,Amyotrophic Lateral Sclerosis (ALS)
+Difficulty Swallowing,Atherosclerosis
+Difficulty Swallowing,Canavan Disease
+Difficulty Swallowing,Myasthenia Gravis
+Difficulty Swallowing,Niemann-Pick Disease
+Difficulty Swallowing,Tetanus
+Difficulty Swallowing,Goiter
+Difficulty Swallowing,Thyroid Cancer
+Speech Problems,Amyotrophic Lateral Sclerosis (ALS)
+Speech Problems,Cleft Lip and Palate
+Nervousness,Anxiety
+Nervousness,Graves Disease
+Rapid Breathing,Anxiety
+Intellectual Disability,Argininemia
+Intellectual Disability,Argininosuccinic Aciduria
+Intellectual Disability,Aspartylglucosaminuria
+Intellectual Disability,Down Syndrome
+Intellectual Disability,Fragile X Syndrome
+Intellectual Disability,Phenylketonuria (PKU)
+Poor growth,Argininosuccinic Aciduria
+Poor growth,Cystic Fibrosis
+Poor growth,Menkes Disease
+Irregular heartbeat,Arrhythmia
+Irregular heartbeat,Brugada Syndrome
+Palpitations,Arrhythmia
+Palpitations,Rheumatic Heart Disease
+Dizziness,Arrhythmia
+Dizziness,Heart Attack (Myocardial Infarction)
+Dizziness,Hypertension
+Dizziness,Hypoglycemia
+Dizziness,Nipah Virus Infection
+Dizziness,Pulmonary Hypertension
+Dizziness,Atherosclerosis
+Dizziness,Adrenal Insufficiency
+Dizziness,Angina
+Dizziness,Aortic Aneurysm
+Dizziness,Polycythemia Vera
+Intestinal Discomfort,Ascariasis
+Developmental delays,Asparagine Synthetase Deficiency
+Developmental delays,Coffin-Lowry Syndrome
+Developmental delays,Down Syndrome
+Developmental delays,Dyggve-Melchior-Clausen Syndrome
+Developmental delays,Fragile X Syndrome
+Developmental delays,Pfeiffer Syndrome
+Epilepsy,Asparagine Synthetase Deficiency
+Growth delay,Aspartylglucosaminuria
+Growth delay,Arrhythmia
+Growth delay,Costello Syndrome
+Chest Tightness,Asthma
+Chest pain,Atherosclerosis
+Chest pain,Asparagine Synthetase Deficiency
+Chest pain,Back Pain
+Chest pain,Brugada Syndrome
+Chest pain,Cardiomyopathy
+Chest pain,Coronary Artery Disease
+Chest pain,Gastroesophageal Reflux Disease (GERD)
+Chest pain,Heart Attack (Myocardial Infarction)
+Chest pain,Heart Disease
+Chest pain,Histoplasmosis
+Chest pain,Hypercholesterolemia
+Chest pain,Lung Cancer
+Chest pain,Melioidosis
+Chest pain,Paragonimiasis
+Chest pain,Pneumonia
+Chest pain,Pulmonary Hypertension
+Chest pain,Rheumatic Heart Disease
+Chest pain,Talaromycosis
+Chest pain,Tuberculosis
+Chest pain,Pneumocystis Pneumonia
+Chest pain,Angina
+Chest pain,Aortic Aneurysm
+Chest pain,Dyslipidemia
+Chest pain,Hyperlipidemia
+Chest pain,Myocardial Infarction (Heart Attack)
+High Cholesterol,Atherosclerosis
+High Cholesterol,Hypercholesterolemia
+Kidney Pain,Autosomal Dominant Polycystic Kidney Disease
+Muscle stiffness,Back Pain
+Muscle stiffness,Myotonia Congenita
+Muscle stiffness,Tetanus
+Difficulty Moving,Back Pain
+Difficulty Moving,Asthma
+Delayed Growth,Barth Syndrome
+Enlarged organs,Arrhythmia
+Enlarged organs,Mucolipidosis
+Low Blood Sugar,Arrhythmia
+Growth Delays,Arrhythmia
+Vision loss,Arthritis
+Vision loss,Diabetic Retinopathy
+Difficulty Focusing,Arthritis
+Seizures,Ascariasis
+Seizures,Canavan Disease
+Seizures,Cysticercosis
+Seizures,Epilepsy
+Seizures,Menkes Disease
+Seizures,Miller-Dieker Syndrome
+Seizures,Mowat-Wilson Syndrome
+Seizures,Multiple Sulfatase Deficiency
+Seizures,Rett Syndrome
+Seizures,Tay-Sachs Disease
+Seizures,Brain Tumors
+Skin Rash,Ascariasis
+Skin Rash,Aspartylglucosaminuria
+Skin Rash,Dengue Fever
+Skin Rash,Kawasaki Disease
+Skin Rash,Langerhans Cell Histiocytosis
+Skin Rash,Lupus
+Skin Rash,Measles
+Skin Rash,Strongyloidiasis
+Skin Rash,"Autoimmune Diseases (e.g., Lupus)"
+Skin Rash,Psoriatic Arthritis
+Skin Rash,Systemic Lupus Erythematosus (SLE)
+Skin Rash,Zoonotic Infections
+Hearing Loss,Ascariasis
+Hearing Loss,Mitochondrial Myopathy
+Hearing Loss,Ear Infections
+Hearing Loss,Meniere's Disease
+Hearing Loss,Tinnitus
+Cough,Asparagine Synthetase Deficiency
+Cough,Back Pain
+Cough,COVID-19
+Cough,Cough
+Cough,Cystic Fibrosis
+Cough,Emphysema
+Cough,Histoplasmosis
+Cough,Lassa Fever
+Cough,Lung Cancer
+Cough,Measles
+Cough,Melioidosis
+Cough,Neurotoxocariasis
+Cough,Paracoccidioidomycosis
+Cough,Paragonimiasis
+Cough,Pneumoconiosis
+Cough,Pneumocystis Pneumonia
+Cough,Pneumonia
+Cough,Pneumonic Plague
+Cough,Primary Ciliary Dyskinesia
+Cough,Respiratory Issues
+Cough,Strongyloidiasis
+Cough,Toxocariasis
+Cough,Tuberculosis
+Cough,Tularemia
+Cough,Asthma
+Cough,Bronchiectasis
+Cough,COPD (Chronic Obstructive Pulmonary Disease)
+Cough,Viral Infections
+Small stature,Aspartylglucosaminuria
+Sensitivity To Sunlight,Aspartylglucosaminuria
+Pain,Arthritis
+Pain,Alkaptonuria
+Pain,Amebiasis
+Pain,Ascariasis
+Pain,Atherosclerosis
+Pain,Autosomal Dominant Polycystic Kidney Disease
+Pain,Asparagine Synthetase Deficiency
+Pain,Asthma
+Pain,Back Pain
+Pain,Barth Syndrome
+Pain,Brugada Syndrome
+Pain,Buruli Ulcer
+Pain,Cardiomyopathy
+Pain,Chikungunya
+Pain,Ciguatera Poisoning
+Pain,Clonorchiasis
+Pain,Colorectal Cancer
+Pain,Coronary Artery Disease
+Pain,Crimean-Congo Hemorrhagic Fever
+Pain,Crohn's Disease
+Pain,Cryptosporidiosis
+Pain,Cysticercosis
+Pain,Dengue Fever
+Pain,Dengue Hemorrhagic Fever
+Pain,Dracunculiasis
+Pain,Echinococcosis
+Pain,Endometriosis
+Pain,Fascioliasis
+Pain,Fibromyalgia
+Pain,Gallstones
+Pain,Gastroesophageal Reflux Disease (GERD)
+Pain,Gout
+Pain,Guinea Worm Disease
+Pain,Heart Attack (Myocardial Infarction)
+Pain,Heart Disease
+Pain,Hemochromatosis
+Pain,Hepatitis A
+Pain,Hepatitis B
+Pain,Histoplasmosis
+Pain,Hookworm Infection
+Pain,Hydronephrosis
+Pain,Hypercholesterolemia
+Pain,Inflammation
+Pain,Inflammatory Bowel Disease (IBD)
+Pain,Joint Pain
+Pain,Kidney Cancer
+Pain,Kidney Stones
+Pain,Langerhans Cell Histiocytosis
+Pain,Lassa Fever
+Pain,Leptospirosis
+Pain,Liver Cancer
+Pain,Loiasis
+Pain,Lung Cancer
+Pain,Lupus
+Pain,Mansonelliasis
+Pain,Marburg
+Pain,Marburg Virus Disease
+Pain,Melioidosis
+Pain,Mycetoma
+Pain,Neurotoxocariasis
+Pain,Opistorchiasis
+Pain,Osteoarthritis
+Pain,Osteopetrosis
+Pain,Ovarian Cancer
+Pain,Pancreatic Cancer
+Pain,Pancreatitis
+Pain,Paragonimiasis
+Pain,Peptic Ulcers
+Pain,Peripheral Artery Disease
+Pain,Pinta
+Pain,Pneumonia
+Pain,Polycystic Kidney Disease
+Pain,Porphyria
+Pain,Prostate Cancer
+Pain,Pulmonary Hypertension
+Pain,Q Fever
+Pain,Rheumatic Heart Disease
+Pain,Rheumatoid Arthritis
+Pain,Rift Valley Fever
+Pain,Rocky Mountain Spotted Fever
+Pain,Schistosomiasis
+Pain,Scoliosis
+Pain,Sickle Cell Anemia
+Pain,Sjogren's Syndrome
+Pain,Sparganosis
+Pain,Strongyloidiasis
+Pain,Talaromycosis
+Pain,Tendinitis
+Pain,Toxocariasis
+Pain,Toxoplasmosis
+Pain,Trichinellosis
+Pain,Trichuriasis
+Pain,Tuberculosis
+Pain,Ulcerative Colitis
+Pain,Urinary Tract Infections (UTIs)
+Pain,Yaws
+Pain,Zika Virus
+Pain,"Autoimmune Diseases (e.g., Lupus)"
+Pain,"Cancer (Breast Cancer, Lung Cancer, Prostate Cancer, etc.)"
+Pain,Chronic Fatigue Syndrome
+Pain,"Hepatitis (A, B, C)"
+Pain,Malaria
+Pain,Pneumocystis Pneumonia
+Pain,Angina
+Pain,Aortic Aneurysm
+Pain,Autoimmune Hepatitis
+Pain,Bladder Cancer
+Pain,Chronic Sinusitis
+Pain,Cirrhosis
+Pain,Cystitis
+Pain,Diabetic Neuropathy
+Pain,Diverticulitis
+Pain,Dyslipidemia
+Pain,Ear Infections
+Pain,Gallbladder Disease
+Pain,Glaucoma
+Pain,Hepatitis
+Pain,Herpes Simplex Virus (HSV)
+Pain,Hidradenitis Suppurativa
+Pain,Hyperlipidemia
+Pain,Irritable Bowel Syndrome (IBS)
+Pain,Menstrual Disorders
+Pain,Multiple Myeloma
+Pain,Myocardial Infarction (Heart Attack)
+Pain,Osteoporosis
+Pain,Psoriatic Arthritis
+Pain,Sciatica
+Pain,Sinusitis
+Pain,Skin Infections
+Pain,Spinal Cord Injury
+Pain,Spondylosis
+Pain,Stomach Cancer
+Pain,Systemic Lupus Erythematosus (SLE)
+Pain,Testicular Cancer
+Pain,Urinary Tract Infection (UTI)
+Pain,Varicose Veins
+Pain,Whipple's Disease
+Pain,Worm Infections
+Pain,Crohn’s Disease
+Breathing,Anxiety
+Breathing,Atherosclerosis
+Breathing,COVID-19
+Breathing,Diphtheria
+Breathing,Guillain-Barre Syndrome
+Breathing,Histoplasmosis
+Breathing,Muscular Dystrophy
+Breathing,Pitt-Hopkins Syndrome
+Breathing,Pneumocystis Pneumonia
+Breathing,Pneumonia
+Breathing,Rheumatic Heart Disease
+Breathing,Talaromycosis
+Breathing,Cystic Fibrosis
+Breathing,Asthma
+Breathing,Sleep Apnea
+Lump in breast,Autosomal Dominant Polycystic Kidney Disease
+Skin Changes,Autosomal Dominant Polycystic Kidney Disease
+Skin Changes,Loeys-Dietz Syndrome
+Skin Changes,Skin Cancer (Melanoma)
+Nipple Discharge,Autosomal Dominant Polycystic Kidney Disease
+Persistent cough,Back Pain
+Persistent cough,Cystic Fibrosis
+Persistent cough,Tuberculosis
+Mucus Production,Back Pain
+Fainting,Brugada Syndrome
+Chills,Bubonic Plague
+Chills,Ebola Virus
+Chills,Fever
+Chills,Malaria
+Chills,Pneumonic Plague
+Chills,Q Fever
+Chills,Septicemic Plague
+Chills,Yellow Fever
+Chills,Zoonotic Malaria
+Chills,Bacterial Infections
+Chills,Zoonotic Infections
+Swollen Lymph Nodes,Bubonic Plague
+Swollen Lymph Nodes,HIV/AIDS
+Swollen Lymph Nodes,Kawasaki Disease
+Swollen Lymph Nodes,Langerhans Cell Histiocytosis
+Swollen Lymph Nodes,Lymphoma
+Swollen Lymph Nodes,Monkeypox
+Swollen Lymph Nodes,Onchocerciasis (River Blindness)
+Swollen Lymph Nodes,Pneumonic Plague
+Swollen Lymph Nodes,Septicemic Plague
+Swollen Lymph Nodes,Sleeping Sickness (Trypanosomiasis)
+Swollen Lymph Nodes,Tularemia
+Swollen Lymph Nodes,Hodgkin's Lymphoma
+Swollen Lymph Nodes,Lymphadenopathy
+Swollen Lymph Nodes,Strep Throat
+Swollen Lymph Nodes,Hodgkin’s Lymphoma
+Skin ulcers,Buruli Ulcer
+Skin ulcers,Leishmaniasis
+Skin ulcers,Mycetoma
+Skin ulcers,Yaws
+Difficulty Breathing,COVID-19
+Difficulty Breathing,Diphtheria
+Difficulty Breathing,Guillain-Barre Syndrome
+Difficulty Breathing,Histoplasmosis
+Difficulty Breathing,Pneumocystis Pneumonia
+Difficulty Breathing,Pneumonia
+Difficulty Breathing,Rheumatic Heart Disease
+Difficulty Breathing,Talaromycosis
+Difficulty Breathing,Cystic Fibrosis
+Difficulty Breathing,Asthma
+Poor feeding,Carbamoyl Phosphate Synthetase I Deficiency Disease
+Poor feeding,Maple Syrup Urine Disease
+Vomiting,Carbamoyl Phosphate Synthetase I Deficiency Disease
+Vomiting,Ebola
+Vomiting,Pancreatitis
+Vomiting,Primary Amebic Meningoencephalitis
+Vomiting,Gallstones
+Vomiting,Gallbladder Disease
+Vomiting,Gastroenteritis
+Numbness,Carpal Tunnel Syndrome
+Numbness,Guillain-Barre Syndrome
+Numbness,Peripheral Artery Disease
+Numbness,Stroke
+Numbness,Leprosy
+Numbness,Diabetic Neuropathy
+Numbness,Raynaud's Disease
+Numbness,Spinal Cord Injury
+Tingling,Carpal Tunnel Syndrome
+Tingling,Guillain-Barre Syndrome
+Tingling,Diabetic Neuropathy
+Hand Weakness,Carpal Tunnel Syndrome
+Neurological issues,Cerebrotendinous Xanthomatosis
+Neurological issues,Porphyria
+Cataracts,Cerebrotendinous Xanthomatosis
+Cataracts,Lowe Syndrome
+Tendon Xanthomas,Cerebrotendinous Xanthomatosis
+Itchy rashes,Chickenpox
+Tiredness,Chickenpox
+Tiredness,Chronic Fatigue Syndrome
+Rash,Skin Allergy
+Rash,Allergies
+Rash,Ascariasis
+Rash,Aspartylglucosaminuria
+Rash,Chickenpox
+Rash,Chikungunya
+Rash,Dengue Fever
+Rash,Eczema (Atopic Dermatitis)
+Rash,"Hand, Foot, and Mouth Disease"
+Rash,Kawasaki Disease
+Rash,Langerhans Cell Histiocytosis
+Rash,Lupus
+Rash,Lyme Disease
+Rash,Measles
+Rash,Monkeypox
+Rash,Rickettsial Diseases
+Rash,Rocky Mountain Spotted Fever
+Rash,Strongyloidiasis
+Rash,Toxocariasis
+Rash,Toxoplasmosis
+Rash,Typhus
+Rash,West Nile Virus
+Rash,Zika Virus
+Rash,"Autoimmune Diseases (e.g., Lupus)"
+Rash,Psoriatic Arthritis
+Rash,Systemic Lupus Erythematosus (SLE)
+Rash,Zoonotic Infections
+Skin lesions,Chromoblastomycosis
+Skin lesions,Leprosy
+Skin lesions,Pinta
+Skin lesions,Talaromycosis
+Reduced Appetite,Chronic Kidney Disease (CKD)
+Breathlessness,Chronic Obstructive Pulmonary Disease (COPD)
+Muscle Pain,Ciguatera Poisoning
+Muscle Pain,Crimean-Congo Hemorrhagic Fever
+Muscle Pain,Cysticercosis
+Muscle Pain,Lassa Fever
+Muscle Pain,Leptospirosis
+Muscle Pain,Marburg
+Muscle Pain,Q Fever
+Muscle Pain,Rift Valley Fever
+Muscle Pain,Rocky Mountain Spotted Fever
+Muscle Pain,Toxoplasmosis
+Muscle Pain,Trichinellosis
+Muscle Pain,Chronic Fatigue Syndrome
+Muscle Pain,Malaria
+Muscle Pain,Dengue Fever
+Jaundice,Clonorchiasis
+Jaundice,Crigler-Najjar Syndrome
+Jaundice,Hepatitis A
+Jaundice,Hepatitis B
+Jaundice,Hepatitis C
+Jaundice,Leptospirosis
+Jaundice,Liver Cancer
+Jaundice,Liver Cirrhosis
+Jaundice,Pancreatic Cancer
+Jaundice,Wilson's Disease
+Jaundice,Yellow Fever
+Jaundice,"Hepatitis (A, B, C)"
+Jaundice,Hepatitis
+Jaundice,Autoimmune Hepatitis
+Jaundice,Cirrhosis
+Jaundice,Gallbladder Disease
+Jaundice,Wilson’s Disease
+Weak Muscle Tone,Coffin-Lowry Syndrome
+Congestion,Cough
+Congestion,Cold
+Congestion,Chronic Sinusitis
+Congestion,Nasal Polyps
+Congestion,Sinusitis
+Changes in bowel habits,Colorectal Cancer
+Irregular bowel movements,Constipation
+Developmental Issues,Costello Syndrome
+Dry Or Wet Cough,Cough
+Yellowing Of Skin,Crigler-Najjar Syndrome
+Yellowing Of Skin,Hepatitis
+Eyes,Crigler-Najjar Syndrome
+Eyes,Kawasaki Disease
+Eyes,Measles
+Eyes,Sjogren's Syndrome
+Eyes,Conjunctivitis
+Eyes,Graves' Disease
+Eyes,Bell's Palsy
+Bleeding,Crimean-Congo Hemorrhagic Fever
+Bleeding,Dengue Hemorrhagic Fever
+Bleeding,Hemophilia
+Bleeding,Kyasanur Forest Disease
+Bleeding,Lassa Fever
+Bleeding,Marburg
+Bleeding,Marburg Virus Disease
+Bleeding,Melanoma
+Bleeding,Menstrual Disorders
+Bleeding,Skin Cancer (Melanoma)
+Bleeding,Gingivitis
+Watery diarrhea,Cryptosporidiosis
+Lung Infections,Cystic Fibrosis
+Headaches,Cysticercosis
+Headaches,Hypertension
+Headaches,Pituitary Tumors
+Headaches,Relapsing Fever
+Headaches,Fibromyalgia
+Headaches,Brain Tumors
+Headaches,Chronic Sinusitis
+Headaches,Stress
+Weakness,Adrenal Insufficiency
+Weakness,Amyotrophic Lateral Sclerosis (ALS)
+Weakness,Argininemia
+Weakness,Barth Syndrome
+Weakness,Atherosclerosis
+Weakness,Canavan Disease
+Weakness,Carpal Tunnel Syndrome
+Weakness,Cystinosis
+Weakness,Duchenne Muscular Dystrophy
+Weakness,Ebola Virus
+Weakness,Guillain-Barre Syndrome
+Weakness,Kearns-Sayre Syndrome
+Weakness,Krabbe Disease
+Weakness,Leprosy
+Weakness,Leukodystrophy
+Weakness,Lipid Storage Disease
+Weakness,Mitochondrial Myopathy
+Weakness,Multiple Sclerosis
+Weakness,Muscular Dystrophy
+Weakness,Myasthenia Gravis
+Weakness,Neurotoxocariasis
+Weakness,Polio
+Weakness,Stroke
+Weakness,Cerebral Palsy
+Weakness,Multiple Myeloma
+Weakness,Spondylosis
+Kidney Issues,Cystinosis
+Kidney Issues,"Autoimmune Diseases (e.g., Lupus)"
+Vision Problems,Cystinosis
+Vision Problems,Leukodystrophy
+Vision Problems,Marfan Syndrome
+Vision Problems,Mitochondrial Myopathy
+Vision Problems,Mucolipidosis
+Vision Problems,Multiple Sclerosis
+Vision Problems,Multiple Sulfatase Deficiency
+Vision Problems,Pituitary Tumors
+Scalp itchiness,Dandruff
+Flaking,Dandruff
+Difficulty Concentrating,Dementia
+High fever,Dengue Fever
+High fever,Dengue Hemorrhagic Fever
+High fever,Ebola
+High fever,Q Fever
+Discolored teeth,Dentinogenesis Imperfecta
+Fragile Enamel,Dentinogenesis Imperfecta
+Sadness,Depression
+Loss Of Interest,Depression
+Short stature,Desbuquois Dysplasia
+Short stature,Larsen Syndrome
+Short stature,Noonan Syndrome
+Joint Contractures,Desbuquois Dysplasia
+Skeletal Dysplasia,Desbuquois Dysplasia
+Excessive Thirst,Diabetes
+Excessive Thirst,Diabetes Mellitus
+Increased thirst,Diabetes Mellitus Type 1 and Type 2
+Increased thirst,Type 1 Diabetes
+Indigestion,Digestive Disorders
+Indigestion,Gallstones
+Indigestion,Peptic Ulcers
+Discomfort After Eating,Digestive Disorders
+Discomfort After Eating,Indigestion
+Mouth Sores,Dihydropyrimidine Dehydrogenase Deficiency
+Mouth Sores,"Hand, Foot, and Mouth Disease"
+Painful ulcers,Dracunculiasis
+Difficulty Walking,Duchenne Muscular Dystrophy
+Difficulty Walking,Multiple Sclerosis
+Difficulty Walking,Muscular Dystrophy
+Difficulty Walking,Wilson’s Disease
+Skeletal Deformities,Dyggve-Melchior-Clausen Syndrome
+Skeletal Deformities,Larsen Syndrome
+Skeletal Deformities,Osteogenesis Imperfecta
+Hemorrhage,Ebola
+Hemorrhaging,Ebola Virus
+Liver Cysts,Echinococcosis
+Itchy skin,Eczema (Atopic Dermatitis)
+Itchy skin,Onchocerciasis (River Blindness)
+Itchy skin,Seborrheic Dermatitis
+Itchy skin,Atopic Dermatitis
+Itchy skin,Candidiasis
+Red Rashes,Eczema (Atopic Dermatitis)
+Inflammation,Eczema (Atopic Dermatitis)
+Chronic Cough,Emphysema
+Chronic Cough,Lung Cancer
+Chronic Cough,Bronchiectasis
+Chronic Cough,COPD (Chronic Obstructive Pulmonary Disease)
+Pelvic pain,Endometriosis
+Pelvic pain,Ovarian Cancer
+Pelvic pain,Prostate Cancer
+Heavy Periods,Endometriosis
+Pain During Intercourse,Endometriosis
+Itchy anus,Enterobiasis
+Digestive Discomfort,Enterobiasis
+Loss Of Consciousness,Epilepsy
+Liver Swelling,Fascioliasis
+Sweating,Fever
+Sweating,Hypoglycemia
+Sweating,Malaria
+Sweating,Heart Attack (Myocardial Infarction)
+Chronic pain,Fibromyalgia
+Sleep Disturbances,Fibromyalgia
+Sleep Disturbances,Chronic Fatigue Syndrome
+Lymph Node Enlargement,Filariasis
+Regurgitation,Gastroesophageal Reflux Disease (GERD)
+Blood In Urine,Glomerulonephritis
+Blood In Urine,Kidney Cancer
+Blood In Urine,Kidney Stones
+Blood In Urine,Schistosomiasis
+Blood In Urine,Prostate Cancer
+Blood In Urine,Bladder Cancer
+Especially In Big Toe,Gout
+Hyperthyroidism,Graves Disease
+Heat Intolerance,Graves Disease
+Tingling In Limbs,Guillain-Barre Syndrome
+Painful blisters,Guinea Worm Disease
+Thinning of hair,Hair Loss
+Bald Patches,Hair Loss
+Rash on hands,"Hand, Foot, and Mouth Disease"
+Muscle Aches,Hantavirus Pulmonary Syndrome
+Muscle Aches,Relapsing Fever
+Muscle Aches,Rickettsial Diseases
+Muscle Aches,Typhus
+Muscle Aches,Chronic Fatigue Syndrome
+Muscle Aches,Zoonotic Infections
+Sensitivity To Cold,Hashimoto's Thyroiditis
+Swelling In Legs,Heart Failure
+Swelling In Legs,Lymphatic Filariasis
+Liver Enlargement,Hemochromatosis
+Liver Enlargement,Opistorchiasis
+Unexplained bleeding,Hemophilia
+Easy Bruising,Hemophilia
+Easy Bruising,Leukemia
+Headache,Migraine
+Headache,Cysticercosis
+Headache,Hendra Virus Infection
+Headache,Hypertension
+Headache,Kyasanur Forest Disease
+Headache,Leptospirosis
+Headache,Lyme Disease
+Headache,Malaria
+Headache,Marburg
+Headache,Marburg Virus Disease
+Headache,Meningitis
+Headache,Naegleria Infection
+Headache,Nipah Virus Infection
+Headache,Pituitary Tumors
+Headache,Polio
+Headache,Primary Amebic Meningoencephalitis
+Headache,Q Fever
+Headache,Relapsing Fever
+Headache,Renal Hypertension
+Headache,Rickettsial Diseases
+Headache,Rift Valley Fever
+Headache,Rocky Mountain Spotted Fever
+Headache,Sleeping Sickness (Trypanosomiasis)
+Headache,Trichinellosis
+Headache,Typhus
+Headache,West Nile Virus
+Headache,Yellow Fever
+Headache,Zoonotic Malaria
+Headache,Chronic Fatigue Syndrome
+Headache,Fibromyalgia
+Headache,Brain Tumors
+Headache,Chronic Sinusitis
+Headache,Glaucoma
+Headache,Polycythemia Vera
+Headache,Sinusitis
+Headache,Stress
+Respiratory Symptoms,Hendra Virus Infection
+Loss Of Appetite,Hepatitis
+Loss Of Appetite,Liver Disorders
+Loss Of Appetite,Stomach Cancer
+Movement problems,Huntington's Disease
+Mood Swings,Huntington's Disease
+Mood Swings,Menopause
+Mood Swings,Mental Health Disorders
+Mood Swings,Thyroid Disorders
+Mood Swings,Bipolar Disorder
+Cognitive Decline,Huntington's Disease
+Painful Urination,Hydronephrosis
+Painful Urination,Urinary Tract Infections (UTIs)
+Painful Urination,Prostate Cancer
+Painful Urination,Bladder Cancer
+Painful Urination,Cystitis
+Painful Urination,Urinary Tract Infection (UTI)
+Weak bones,Hyperparathyroidism
+Kidney Stones,Hyperparathyroidism
+Kidney Stones,Lesch-Nyhan Syndrome
+Anxiety,Hyperthyroidism
+Anxiety,Mental Health Disorders
+Anxiety,Mental Stress
+Anxiety,Graves' Disease
+Anxiety,Post-Traumatic Stress Disorder (PTSD)
+Anxiety,Stress
+Tremors,Hyperthyroidism
+Tremors,Parkinson's Disease
+Tremors,Wilson's Disease
+Tremors,Wilson’s Disease
+Rapid Heartbeat,Hyperthyroidism
+Rapid Heartbeat,Graves' Disease
+Shakiness,Hypoglycemia
+Cold Intolerance,Hypothyroidism
+Dry Skin,Hypothyroidism
+Dry Skin,Psoriasis
+Dry Skin,Atopic Dermatitis
+Heat,Graves Disease
+Heat,Inflammation
+Difficulty falling asleep,Insomnia
+Restless Mind,Insomnia
+Abdominal cramps,Irritable Bowel Syndrome (IBS)
+Abdominal cramps,Gastroenteritis
+Diarrhea Or Constipation,Irritable Bowel Syndrome (IBS)
+Pain In Joints,Joint Pain
+Enlarged Spleen Or Liver,Kala-azar
+Red Eyes,Kawasaki Disease
+Red Eyes,Measles
+Red Eyes,Conjunctivitis
+Heart Problems,Kearns-Sayre Syndrome
+Eye Issues,Kearns-Sayre Syndrome
+Pain In Back Or Abdomen,Kidney Cancer
+Severe pain in the back or side,Kidney Stones
+Recurrent episodes of excessive sleep,Kleine-Levin Syndrome
+Altered Behavior,Kleine-Levin Syndrome
+Infertility,Klinefelter Syndrome
+Enlarged Breasts,Klinefelter Syndrome
+Low Testosterone,Klinefelter Syndrome
+Loss Of Motor Skills,Krabbe Disease
+Loss Of Motor Skills,Rett Syndrome
+Loss Of Motor Skills,Tay-Sachs Disease
+Irritability,Krabbe Disease
+Irritability,Mental Stress
+Irritability,Anxiety Disorder
+Irritability,Stress
+Body Ache,Fever
+Body Ache,Influenza
+Body Ache,Kyasanur Forest Disease
+Body Ache,West Nile Virus
+Body Ache,Zoonotic Malaria
+Body Ache,Viral Infections
+Skin rashes,Langerhans Cell Histiocytosis
+Skin rashes,Lupus
+Skin rashes,Strongyloidiasis
+Skin rashes,"Autoimmune Diseases (e.g., Lupus)"
+Skin rashes,Psoriatic Arthritis
+Skin rashes,Systemic Lupus Erythematosus (SLE)
+Bone Pain,Langerhans Cell Histiocytosis
+Bone Pain,Osteopetrosis
+Bone Pain,Yaws
+Bone Pain,Multiple Myeloma
+Joint dislocations,Larsen Syndrome
+Progressive loss of mental,Leigh Syndrome
+Movement Abilities,Leigh Syndrome
+Swollen Spleen,Leishmaniasis
+Nerve Damage,Leprosy
+Self-injurious behavior,Lesch-Nyhan Syndrome
+Muscle Rigidity,Lesch-Nyhan Syndrome
+Muscle Rigidity,Parkinson's Disease
+Unexplained Weight Loss,Leukemia
+Unexplained Weight Loss,Weight Loss
+Frequent Infections,Leukemia
+Frequent Infections,Sickle Cell Anemia
+Frequent Infections,Multiple Myeloma
+Difficulty With Coordination,Leukodystrophy
+Low Potassium Levels,Liddle Syndrome
+Alkalosis,Liddle Syndrome
+Enlarged liver,Lipid Storage Disease
+Enlarged liver,Niemann-Pick Disease
+Spleen,Kala-azar
+Spleen,Leishmaniasis
+Spleen,Lipid Storage Disease
+Spleen,Niemann-Pick Disease
+Spleen,Thalassemia
+Yellowing Of The Skin,Liver Disorders
+Arterial aneurysms,Loeys-Dietz Syndrome
+Joint Problems,Loeys-Dietz Syndrome
+Eye Pain,Loiasis
+Eye Pain,Glaucoma
+Developmental Delay,Asparagine Synthetase Deficiency
+Developmental Delay,Coffin-Lowry Syndrome
+Developmental Delay,Down Syndrome
+Developmental Delay,Dyggve-Melchior-Clausen Syndrome
+Developmental Delay,Fragile X Syndrome
+Developmental Delay,Lowe Syndrome
+Developmental Delay,Menkes Disease
+Developmental Delay,Miller-Dieker Syndrome
+Developmental Delay,Mowat-Wilson Syndrome
+Developmental Delay,Mucolipidosis
+Developmental Delay,Mucopolysaccharidosis
+Developmental Delay,Multiple Sulfatase Deficiency
+Developmental Delay,Niemann-Pick Disease
+Developmental Delay,Noonan Syndrome
+Developmental Delay,Pfeiffer Syndrome
+Developmental Delay,Phenylketonuria (PKU)
+Developmental Delay,Pitt-Hopkins Syndrome
+Developmental Delay,Prader-Willi Syndrome
+Kidney Problems,Lowe Syndrome
+Photosensitivity,Lupus
+Photosensitivity,Systemic Lupus Erythematosus (SLE)
+Bull'S-Eye Rash,Lyme Disease
+Arms,Lymphatic Filariasis
+Genital Area,Lymphatic Filariasis
+Genital Area,Herpes Simplex Virus (HSV)
+Night Sweats,Lymphoma
+Night Sweats,Menopause
+Night Sweats,Tuberculosis
+Night Sweats,Hodgkin's Lymphoma
+Night Sweats,Lymphadenopathy
+Night Sweats,Hodgkin’s Lymphoma
+Multiple benign growths,Maffucci Syndrome
+Bone Deformities,Maffucci Syndrome
+Vascular Tumors,Maffucci Syndrome
+Sweet-smelling urine,Maple Syrup Urine Disease
+Long limbs,Marfan Syndrome
+Heart Defects,Marfan Syndrome
+Heart Defects,Noonan Syndrome
+Bone fractures,McCune-Albright Syndrome
+Skin Pigmentation,McCune-Albright Syndrome
+Endocrine Issues,McCune-Albright Syndrome
+Dark skin growth,Melanoma
+Asymmetrical Mole,Melanoma
+Abscesses,Melioidosis
+Abscesses,Hidradenitis Suppurativa
+Sudden fever,Meningitis
+Stiff Neck,Meningitis
+Stiff Neck,Naegleria Infection
+Stiff Neck,Primary Amebic Meningoencephalitis
+Brittle Hair,Menkes Disease
+Hot flashes,Menopause
+Vaginal Dryness,Menopause
+Irregular periods,Menstrual Disorders
+Irregular periods,Ovarian Cancer
+Irregular periods,Polycystic Ovary Syndrome (PCOS)
+Heavy Bleeding,Menstrual Disorders
+Cramps,Irritable Bowel Syndrome (IBS)
+Cramps,Menstrual Disorders
+Cramps,Gastroenteritis
+Depression,Mental Health Disorders
+Depression,Hypothyroidism
+Depression,Post-Traumatic Stress Disorder (PTSD)
+Depression,Bipolar Disorder
+Lack Of Focus,Mental Health Disorders
+Trouble Sleeping,Mental Stress
+Abdominal obesity,Metabolic Syndrome
+High Blood Sugar,Metabolic Syndrome
+Sensitivity To Light,Migraine
+Sound,Migraine
+Facial Abnormalities,Miller-Dieker Syndrome
+Facial Abnormalities,Mowat-Wilson Syndrome
+Facial Abnormalities,Pfeiffer Syndrome
+Facial Abnormalities,Pitt-Hopkins Syndrome
+Joint stiffness,Mucopolysaccharidosis
+Heart Valve Problems,Mucopolysaccharidosis
+Breathing Problems,Muscular Dystrophy
+Breathing Problems,Pitt-Hopkins Syndrome
+Drooping Eyelids,Myasthenia Gravis
+Pus Discharge,Mycetoma
+Difficulty Relaxing Muscles,Myotonia Congenita
+Foamy Urine,Nephrotic Syndrome
+Lumps on the skin,Neurofibromatosis
+Learning Difficulties,Neurofibromatosis
+Vision Issues,Neurofibromatosis
+Vision Issues,Multiple Sclerosis
+Respiratory Distress,Nipah Virus Infection
+Excessive weight,Obesity
+Difficulty In Physical Activity,Obesity
+Vision Impairment,Onchocerciasis (River Blindness)
+Fragile bones,Osteogenesis Imperfecta
+Fragile bones,Osteoporosis
+Frequent Fractures,Osteogenesis Imperfecta
+Fractures,McCune-Albright Syndrome
+Fractures,Osteogenesis Imperfecta
+Fractures,Osteopetrosis
+Fractures,Osteoporosis
+Vision,Arthritis
+Vision,Cystinosis
+Vision,Leukodystrophy
+Vision,Marfan Syndrome
+Vision,Mitochondrial Myopathy
+Vision,Mucolipidosis
+Vision,Multiple Sclerosis
+Vision,Multiple Sulfatase Deficiency
+Vision,Neurofibromatosis
+Vision,Onchocerciasis (River Blindness)
+Vision,Osteopetrosis
+Vision,Pituitary Tumors
+Vision,Trachoma
+Vision,Diabetes Mellitus
+Vision,Glaucoma
+Vision,Diabetic Retinopathy
+Hearing Problems,Osteopetrosis
+Height Loss,Osteoporosis
+Abdominal bloating,Ovarian Cancer
+Upper abdominal pain,Pancreatitis
+Enlarged Lymph Nodes,Paracoccidioidomycosis
+Blood In Sputum,Paragonimiasis
+Slow Movement,Parkinson's Disease
+Balance Problems,Parkinson's Disease
+Urinary incontinence,Pelvic Floor Disorders
+Pelvic Pressure,Pelvic Floor Disorders
+Constipation,Irritable Bowel Syndrome (IBS)
+Constipation,Pelvic Floor Disorders
+Constipation,Diverticulitis
+Stomach pain,Peptic Ulcers
+Leg pain,Peripheral Artery Disease
+Cramping,Peripheral Artery Disease
+Slow Wound Healing,Peripheral Artery Disease
+Mucocutaneous pigmentation,Peutz-Jeghers Syndrome
+Gastrointestinal Polyps,Peutz-Jeghers Syndrome
+Craniofacial abnormalities,Pfeiffer Syndrome
+Eczema,Phenylketonuria (PKU)
+Hormonal Imbalances,Pituitary Tumors
+Coughing,Pneumoconiosis
+Coughing,Pneumonic Plague
+Coughing,Toxocariasis
+Coughing,Asthma
+Coughing With Blood,Pneumonic Plague
+Paralysis,Polio
+Paralysis,Spinal Cord Injury
+Kidney Enlargement,Polycystic Kidney Disease
+Excessive Hair Growth,Polycystic Ovary Syndrome (PCOS)
+Skin Sensitivity,Porphyria
+Insatiable hunger,Prader-Willi Syndrome
+Obesity,Metabolic Syndrome
+Obesity,Prader-Willi Syndrome
+Chronic respiratory infections,Primary Ciliary Dyskinesia
+Sinusitis,Primary Ciliary Dyskinesia
+Urinary problems,Prostate Cancer
+Difficulty Urinating,Prostate Cancer
+Difficulty Urinating,Prostate Enlargement (Benign Prostatic Hyperplasia)
+Red,Skin Allergy
+Red,Acute Kidney Injury
+Red,Chickenpox
+Red,Chronic Kidney Disease (CKD)
+Red,Contact Dermatitis
+Red,Dentinogenesis Imperfecta
+Red,Eczema (Atopic Dermatitis)
+Red,Gout
+Red,Inflammation
+Red,Kawasaki Disease
+Red,Kleine-Levin Syndrome
+Red,Measles
+Red,Psoriasis
+Red,Rosacea
+Red,Seborrheic Dermatitis
+Red,Skin Diseases
+Red,"Skin Infections (Bacterial, Fungal, Viral)"
+Red,Skin Rash
+Red,Trachoma
+Red,Diabetes Mellitus
+Red,Atopic Dermatitis
+Red,Chronic Fatigue Syndrome
+Red,Conjunctivitis
+Red,Gingivitis
+Red,Glaucoma
+Red,Polycythemia Vera
+Red,Skin Infections
+Red,Yeast Infections
+Red,Diabetic Retinopathy
+Inflamed Skin,Psoriasis
+Scales,Psoriasis
+Agitation,Rabies
+Hallucinations,Rabies
+Hydrophobia,Rabies
+Recurrent fevers,Relapsing Fever
+Abnormal Hand Movements,Rett Syndrome
+Heart Palpitations,Rheumatic Heart Disease
+Visible Blood Vessels,Rosacea
+Pimples On The Face,Rosacea
+Uneven shoulders,Scoliosis
+Back Pain,Scoliosis
+Back Pain,Kidney Cancer
+Back Pain,Osteoporosis
+Back Pain,Sciatica
+Back Pain,Spondylosis
+Difficulty Standing Straight,Scoliosis
+Dandruff,Seborrheic Dermatitis
+Flakiness,Seborrheic Dermatitis
+Septic Shock,Septicemic Plague
+Low libido,Sexual Dysfunction
+Erectile Dysfunction,Sexual Dysfunction
+Premature Ejaculation,Sexual Dysfunction
+Swelling In Hands,Sickle Cell Anemia
+Dry mouth,Sjogren's Syndrome
+Dry Eyes,Sjogren's Syndrome
+Irregular Moles,Skin Cancer (Melanoma)
+Irritation,Skin Diseases
+Irritation,Trachoma
+Lesions,Chromoblastomycosis
+Lesions,Leprosy
+Lesions,Pinta
+Lesions,Skin Diseases
+Lesions,Talaromycosis
+Discharge,Autosomal Dominant Polycystic Kidney Disease
+Discharge,Mycetoma
+Discharge,"Skin Infections (Bacterial, Fungal, Viral)"
+Discharge,Conjunctivitis
+Discharge,Yeast Infections
+Inflamed,Psoriasis
+Inflamed,Skin Rash
+Itchy Patches On The Skin,Skin Rash
+Loud snoring,Sleep Apnea
+Choking During Sleep,Sleep Apnea
+Daytime Fatigue,Sleep Apnea
+Ulcers,Buruli Ulcer
+Ulcers,Dracunculiasis
+Ulcers,Leishmaniasis
+Ulcers,Mycetoma
+Ulcers,Sparganosis
+Ulcers,Yaws
+Subcutaneous Lumps,Sparganosis
+Sudden numbness,Stroke
+Difficulty Speaking,Stroke
+Difficulty Speaking,Amyotrophic Lateral Sclerosis (ALS)
+Difficulty Speaking,Aphasia
+Progressive loss of motor skills,Tay-Sachs Disease
+Blindness,Tay-Sachs Disease
+Stiffness In Tendons,Tendinitis
+Spasms,Tetanus
+Spasms,Epilepsy
+Pale Skin,Thalassemia
+Pale Skin,Anemia
+Enlarged Spleen,Kala-azar
+Enlarged Spleen,Thalassemia
+Slow Growth,Thalassemia
+Flu-like symptoms,Toxoplasmosis
+Eye irritation,Trachoma
+Blurred Vision,Trachoma
+Blurred Vision,Diabetes Mellitus
+Blurred Vision,Glaucoma
+Blurred Vision,Diabetic Retinopathy
+Blood In Stool,Trichuriasis
+Blood In Stool,Ulcerative Colitis
+Blood In Stool,Colorectal Cancer
+Intense itching,Tungiasis
+Presence Of Sand Fleas,Tungiasis
+Frequent Urge To Urinate,Urinary Tract Infections (UTIs)
+Frequent Urge To Urinate,Cystitis
+Cloudy Urine,Urinary Tract Infections (UTIs)
+Loss of skin pigment,Vitiligo
+White Patches On Skin,Vitiligo
+Psychiatric Symptoms,Wilson's Disease
+Psychiatric Symptoms,Wilson’s Disease
+Conjunctivitis,Zika Virus
+Weight Changes,Thyroid Disorders
+Difficulty Completing Tasks,Alzheimer's Disease
+Swallowing Issues,Amyotrophic Lateral Sclerosis (ALS)
+Lumps Or Abnormal Growths,"Cancer (Breast Cancer, Lung Cancer, Prostate Cancer, etc.)"
+Swelling Of The Legs,Cardiomyopathy
+Sweats,Lymphoma
+Sweats,Menopause
+Sweats,Tuberculosis
+Sweats,Malaria
+Sweats,Hodgkin's Lymphoma
+Sweats,Lymphadenopathy
+Sweats,Hodgkin’s Lymphoma
+Coordination Problems,Multiple Sclerosis
+Red patches,Psoriasis
+Anemia,Sickle Cell Anemia
+Changes in mole appearance,Skin Cancer (Melanoma)
+Skin Discoloration,Skin Cancer (Melanoma)
+Muscle Loss,Weight Loss
+Unexplained weight gain,Weight Gain
+Darkened skin in folds,Acanthosis Nigricans
+Arthritis,Alkaptonuria
+Heart Issues,Alkaptonuria
+Difficulty speaking or understanding speech,Aphasia
+Depressive Episodes,Bipolar Disorder
+Manic Episodes,Bipolar Disorder
+Sputum Production,Bronchiectasis
+White Patches,Vitiligo
+White Patches,Candidiasis
+Burning Sensation,Candidiasis
+Spasticity,Cerebral Palsy
+Difficulty With Movement,Cerebral Palsy
+Extreme tiredness,Chronic Fatigue Syndrome
+Sleep Problems,Chronic Fatigue Syndrome
+Nasal congestion,Chronic Sinusitis
+Nasal congestion,Nasal Polyps
+Nasal congestion,Sinusitis
+Facial Pain,Chronic Sinusitis
+Facial Pain,Sinusitis
+Difficulty eating,Cleft Lip and Palate
+Blisters on lips or around the mouth,Cold Sores
+Itchy Eyes,Conjunctivitis
+Eye Discharge,Conjunctivitis
+Low mood,Depression
+Loss Of Interest In Activities,Depression
+Pain In Limbs,Diabetic Neuropathy
+Elevated cholesterol levels,Dyslipidemia
+Ear pain,Ear Infections
+Fluid Drainage,Ear Infections
+Muscle Spasms,Epilepsy
+Difficulty achieving or maintaining an erection,Erectile Dysfunction
+Swollen Gums,Gingivitis
+Bleeding While Brushing,Gingivitis
+Swelling in the neck,Goiter
+Especially In The Big Toe,Gout
+Bulging Eyes,Graves' Disease
+Blisters,Guinea Worm Disease
+Blisters,Cold Sores
+Blisters,Herpes Simplex Virus (HSV)
+Typically Around The Mouth Or Genital Area,Herpes Simplex Virus (HSV)
+Painful lumps under the skin,Hidradenitis Suppurativa
+Drainage,Ear Infections
+Drainage,Hidradenitis Suppurativa
+Elevated cholesterol,Dyslipidemia
+Elevated cholesterol,Hyperlipidemia
+Severe pain,Kidney Stones
+Vertigo,Meniere's Disease
+Tinnitus,Meniere's Disease
+Fullness In The Ear,Meniere's Disease
+Heavy Flow,Menstrual Disorders
+Loss Of Smell,Nasal Polyps
+Sinus Pressure,Nasal Polyps
+High Red Blood Cell Count,Polycythemia Vera
+Flashbacks,Post-Traumatic Stress Disorder (PTSD)
+Nightmares,Post-Traumatic Stress Disorder (PTSD)
+Weak Stream,Prostate Enlargement (Benign Prostatic Hyperplasia)
+Color changes in fingers,Raynaud's Disease
+Toes,Raynaud's Disease
+Coldness,Raynaud's Disease
+Lower back pain,Sciatica
+Pain Radiating Down The Leg,Sciatica
+Pus,Mycetoma
+Pus,Skin Infections
+Interrupted Breathing,Sleep Apnea
+Loss of movement,Spinal Cord Injury
+Neck or back pain,Spondylosis
+Loss Of Balance,Stroke
+Lump in testicle,Testicular Cancer
+Pain Or Swelling,Testicular Cancer
+Heaviness In Scrotum,Testicular Cancer
+Neck lump,Thyroid Cancer
+Hoarseness,Thyroid Cancer
+Ringing in the ears,Tinnitus
+Ear Fullness,Tinnitus
+Lower Abdominal Pain,Urinary Tract Infection (UTI)
+Swollen,Bubonic Plague
+Swollen,HIV/AIDS
+Swollen,Kawasaki Disease
+Swollen,Langerhans Cell Histiocytosis
+Swollen,Leishmaniasis
+Swollen,Lymphoma
+Swollen,Monkeypox
+Swollen,Onchocerciasis (River Blindness)
+Swollen,Pneumonic Plague
+Swollen,Septicemic Plague
+Swollen,Sleeping Sickness (Trypanosomiasis)
+Swollen,Tularemia
+Swollen,Gingivitis
+Swollen,Hodgkin's Lymphoma
+Swollen,Lymphadenopathy
+Swollen,Strep Throat
+Swollen,Varicose Veins
+Swollen,Hodgkin’s Lymphoma
+Twisted Veins,Varicose Veins
+Heaviness In Legs,Varicose Veins
+Malabsorption,Whipple's Disease
+Facial drooping,Bell's Palsy
+Loss Of Taste,Bell's Palsy
+Difficulty Closing Eyes,Bell's Palsy
+Extreme mood swings,Bipolar Disorder
+Mania,Bipolar Disorder
+Frequent Lung Infections,Cystic Fibrosis
+Digestive Issues,Cystic Fibrosis

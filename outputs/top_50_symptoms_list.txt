@@ -1,0 +1,52 @@
+Top 50 symptoms by row count (case-insensitive grouping)
+
+1. Pain (normalized: pain) — rows: 278, diseases: 139, file: pain_diseases.csv
+2. Fever (normalized: fever) — rows: 166, diseases: 83, file: fever_diseases.csv
+3. Fatigue (normalized: fatigue) — rows: 146, diseases: 73, file: fatigue_diseases.csv
+4. Abdominal pain (normalized: abdominal pain) — rows: 84, diseases: 42, file: abdominal_pain_diseases.csv
+5. Swelling (normalized: swelling) — rows: 76, diseases: 38, file: swelling_diseases.csv
+6. Headache (normalized: headache) — rows: 72, diseases: 36, file: headache_diseases.csv
+7. Nausea (normalized: nausea) — rows: 66, diseases: 33, file: nausea_diseases.csv
+8. Cough (normalized: cough) — rows: 56, diseases: 28, file: cough_diseases.csv
+9. Weakness (normalized: weakness) — rows: 52, diseases: 26, file: weakness_diseases.csv
+10. Weight loss (normalized: weight loss) — rows: 52, diseases: 26, file: weight_loss_diseases.csv
+11. Chest pain (normalized: chest pain) — rows: 50, diseases: 25, file: chest_pain_diseases.csv
+12. Diarrhea (normalized: diarrhea) — rows: 42, diseases: 21, file: diarrhea_diseases.csv
+13. Muscle weakness (normalized: muscle weakness) — rows: 40, diseases: 20, file: muscle_weakness_diseases.csv
+14. Shortness of breath (normalized: shortness of breath) — rows: 40, diseases: 20, file: shortness_of_breath_diseases.csv
+15. Developmental delay (normalized: developmental delay) — rows: 36, diseases: 18, file: developmental_delay_diseases.csv
+16. Joint pain (normalized: joint pain) — rows: 36, diseases: 18, file: joint_pain_diseases.csv
+17. Jaundice (normalized: jaundice) — rows: 34, diseases: 17, file: jaundice_diseases.csv
+18. Swollen lymph nodes (normalized: swollen lymph nodes) — rows: 30, diseases: 15, file: swollen_lymph_nodes_diseases.csv
+19. Red (normalized: red) — rows: 29, diseases: 29, file: red_diseases.csv
+20. Muscle pain (normalized: muscle pain) — rows: 28, diseases: 14, file: muscle_pain_diseases.csv
+21. rash (normalized: rash) — rows: 27, diseases: 27, file: rash_diseases.csv
+22. Bloating (normalized: bloating) — rows: 24, diseases: 12, file: bloating_diseases.csv
+23. Itching (normalized: itching) — rows: 22, diseases: 11, file: itching_diseases.csv
+24. Redness (normalized: redness) — rows: 22, diseases: 11, file: redness_diseases.csv
+25. Seizures (normalized: seizures) — rows: 22, diseases: 11, file: seizures_diseases.csv
+26. Difficulty breathing (normalized: difficulty breathing) — rows: 20, diseases: 10, file: difficulty_breathing_diseases.csv
+27. High blood pressure (normalized: high blood pressure) — rows: 18, diseases: 9, file: high_blood_pressure_diseases.csv
+28. Swollen (normalized: swollen) — rows: 18, diseases: 18, file: swollen_diseases.csv
+29. Headaches (normalized: headaches) — rows: 16, diseases: 8, file: headaches_diseases.csv
+30. Numbness (normalized: numbness) — rows: 16, diseases: 8, file: numbness_diseases.csv
+31. vision (normalized: vision) — rows: 16, diseases: 16, file: vision_diseases.csv
+32. breathing (normalized: breathing) — rows: 15, diseases: 15, file: breathing_diseases.csv
+33. Frequent urination (normalized: frequent urination) — rows: 14, diseases: 7, file: frequent_urination_diseases.csv
+34. stiffness (normalized: stiffness) — rows: 13, diseases: 13, file: stiffness_diseases.csv
+35. Anxiety (normalized: anxiety) — rows: 12, diseases: 6, file: anxiety_diseases.csv
+36. Blood in urine (normalized: blood in urine) — rows: 12, diseases: 6, file: blood_in_urine_diseases.csv
+37. Developmental delays (normalized: developmental delays) — rows: 12, diseases: 6, file: developmental_delays_diseases.csv
+38. Intellectual disability (normalized: intellectual disability) — rows: 12, diseases: 6, file: intellectual_disability_diseases.csv
+39. Painful urination (normalized: painful urination) — rows: 12, diseases: 6, file: painful_urination_diseases.csv
+40. Skin rashes (normalized: skin rashes) — rows: 12, diseases: 6, file: skin_rashes_diseases.csv
+41. Weight gain (normalized: weight gain) — rows: 12, diseases: 6, file: weight_gain_diseases.csv
+42. skin rash (normalized: skin rash) — rows: 12, diseases: 12, file: skin_rash_diseases.csv
+43. bleeding (normalized: bleeding) — rows: 11, diseases: 11, file: bleeding_diseases.csv
+44. chills (normalized: chills) — rows: 11, diseases: 11, file: chills_diseases.csv
+45. dizziness (normalized: dizziness) — rows: 11, diseases: 11, file: dizziness_diseases.csv
+46. Back pain (normalized: back pain) — rows: 10, diseases: 5, file: back_pain_diseases.csv
+47. Itchy skin (normalized: itchy skin) — rows: 10, diseases: 5, file: itchy_skin_diseases.csv
+48. Mood swings (normalized: mood swings) — rows: 10, diseases: 5, file: mood_swings_diseases.csv
+49. Sore throat (normalized: sore throat) — rows: 10, diseases: 5, file: sore_throat_diseases.csv
+50. Wheezing (normalized: wheezing) — rows: 10, diseases: 5, file: wheezing_diseases.csv
