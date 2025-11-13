@@ -1,8 +1,8 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
+# matplotlib / seaborn imports removed to avoid requiring heavy plotting dependencies
+# (add back if you need plots on Streamlit Cloud; include in requirements.txt)
 # scikit-learn is optional for advanced predictive features. Import lazily so the app
 # can run core pages (search, symptom oracle, batch) even if scikit-learn is not
 # installed in the environment. If predictive features are used, we'll check
